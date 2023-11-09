@@ -1,0 +1,1410 @@
+Customer ID,Churn,Tenure Months,Location,Device Class,Games Product,Music Product,Education Product,Call Center,Video Product,Use MyApp,Payment Method,Monthly Purchase (Thou. IDR),Churn Label,Longitude,Latitude,CLTV (Predicted Thou. IDR)
+2196,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,148.26500000000001,No,106.816666,-6.2,6294.6
+3549,1,8,Jakarta,High End,No,No,No,Yes,Yes,Yes,Credit,130.19500000000002,No,106.816666,-6.2,6704.1
+3515,0,41,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,No,Credit,101.85499999999999,No,106.816666,-6.2,3762.2000000000003
+5162,1,18,Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,101.66000000000001,No,106.816666,-6.2,3680.3
+4642,0,72,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Credit,107.44500000000001,No,106.816666,-6.2,5621.2
+6096,1,21,Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,129.805,No,106.816666,-6.2,2746.9
+4504,0,21,Bandung,High End,No,Yes,No,Yes,Yes,Yes,Debit,128.895,No,107.60981,-6.914744,6921.2
+4067,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,31.330000000000002,No,106.816666,-6.2,3091.4
+6233,0,61,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.675,No,107.60981,-6.914744,7940.400000000001
+430,1,17,Bandung,Mid End,No,No,No,No,No,No,Pulsa,58.565,Yes,107.60981,-6.914744,4936.1
+3396,0,70,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Pulsa,137.865,No,106.816666,-6.2,5957.900000000001
+2815,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,149.305,No,106.816666,-6.2,6234.8
+2368,0,49,Jakarta,Mid End,No,No,Yes,No,No,No,Debit,39.26,No,106.816666,-6.2,6778.2
+917,1,11,Bandung,High End,No,No,No,No,No,Yes,Credit,110.24,Yes,107.60981,-6.914744,6653.400000000001
+5769,0,19,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,63.44,No,106.816666,-6.2,4873.7
+2231,0,72,Jakarta,High End,No,No,No,No,No,Yes,Credit,109.85000000000001,No,106.816666,-6.2,8062.6
+6375,0,8,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.35,No,106.816666,-6.2,6767.8
+3437,1,15,Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,118.3,No,106.816666,-6.2,5982.6
+6655,0,67,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,137.41,No,107.60981,-6.914744,6535.1
+5822,0,26,Jakarta,Mid End,Yes,No,Yes,No,No,No,Credit,46.02,No,106.816666,-6.2,3274.7000000000003
+1727,1,2,Bandung,High End,No,No,No,No,No,No,Digital Wallet,97.30499999999999,Yes,107.60981,-6.914744,6991.400000000001
+2787,0,21,Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,37.050000000000004,No,106.816666,-6.2,4895.8
+3060,0,49,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.065,No,107.60981,-6.914744,7252.7
+5617,0,21,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.740000000000002,No,106.816666,-6.2,4215.900000000001
+5843,0,51,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,89.89500000000001,No,106.816666,-6.2,6743.1
+4802,0,16,Jakarta,Mid End,Yes,Yes,No,No,No,No,Debit,70.91499999999999,No,106.816666,-6.2,4321.2
+186,1,22,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116.025,Yes,106.816666,-6.2,4109.3
+1615,1,13,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,132.925,Yes,106.816666,-6.2,2603.9
+6321,0,43,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,32.63,No,106.816666,-6.2,6236.1
+1459,1,3,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116.28500000000001,Yes,106.816666,-6.2,4668.3
+3227,1,54,Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,117.065,No,107.60981,-6.914744,6801.6
+6997,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,31.46,No,106.816666,-6.2,5558.8
+5074,0,69,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.715000000000003,No,107.60981,-6.914744,6975.8
+4494,0,62,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,30.419999999999998,No,107.60981,-6.914744,7568.6
+89,1,2,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117.52000000000001,Yes,106.816666,-6.2,5404.1
+4544,0,62,Jakarta,High End,No,Yes,Yes,No,No,Yes,Credit,124.92999999999999,No,106.816666,-6.2,7628.400000000001
+240,1,2,Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58.435,Yes,107.60981,-6.914744,7670.0
+4603,0,69,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.869999999999997,No,106.816666,-6.2,7875.400000000001
+1760,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.85000000000001,Yes,106.816666,-6.2,2620.8
+648,0,31,Jakarta,Mid End,No,No,Yes,Yes,No,No,Pulsa,71.825,Yes,106.816666,-6.2,3812.9
+5450,0,69,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.39,No,107.60981,-6.914744,5254.6
+3732,1,2,Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,118.885,No,106.816666,-6.2,6355.7
+5850,0,33,Jakarta,High End,No,No,No,No,No,No,Debit,91.52000000000001,No,106.816666,-6.2,6318.0
+2989,0,3,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.480000000000004,No,106.816666,-6.2,3823.3
+4608,0,44,Jakarta,Mid End,Yes,No,No,Yes,Yes,No,Pulsa,85.02000000000001,No,106.816666,-6.2,7575.1
+223,1,10,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,143.13,Yes,107.60981,-6.914744,7543.900000000001
+4464,1,8,Bandung,High End,No,No,No,No,No,No,Pulsa,97.825,No,107.60981,-6.914744,3031.6
+6368,0,8,Jakarta,Mid End,No,Yes,No,Yes,Yes,No,Pulsa,86.64500000000001,No,106.816666,-6.2,4945.2
+4296,0,69,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.455000000000002,No,107.60981,-6.914744,6744.400000000001
+134,0,23,Jakarta,High End,No,No,No,No,No,No,Debit,98.28,Yes,106.816666,-6.2,2749.5
+2637,0,66,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.63,No,107.60981,-6.914744,7832.5
+590,1,1,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,133.185,Yes,106.816666,-6.2,6254.3
+6390,0,3,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,7733.7
+4836,1,5,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,66.3,No,106.816666,-6.2,3625.7000000000003
+3533,1,1,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,66.56,No,106.816666,-6.2,4808.7
+1665,1,9,Jakarta,High End,No,No,No,No,Yes,No,Debit,100.94500000000001,Yes,106.816666,-6.2,5001.1
+6258,0,36,Bandung,Mid End,Yes,No,Yes,No,No,Yes,Credit,82.81,No,107.60981,-6.914744,3255.2000000000003
+6001,0,68,Jakarta,High End,Yes,Yes,No,No,No,No,Debit,111.15,No,106.816666,-6.2,5694.0
+5992,0,35,Jakarta,Mid End,No,No,No,Yes,Yes,No,Digital Wallet,53.17,No,106.816666,-6.2,7398.3
+3692,0,60,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.715000000000003,No,106.816666,-6.2,5226.0
+5496,0,72,Bandung,Mid End,Yes,Yes,No,Yes,Yes,No,Digital Wallet,96.915,No,107.60981,-6.914744,6113.900000000001
+1334,0,45,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.52,Yes,106.816666,-6.2,7017.400000000001
+2532,1,37,Bandung,High End,No,No,No,No,Yes,Yes,Credit,118.56,No,107.60981,-6.914744,6841.900000000001
+1963,0,7,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,65.91000000000001,No,106.816666,-6.2,4026.1000000000004
+891,1,4,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,65.91000000000001,Yes,106.816666,-6.2,6409.0
+881,1,1,Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,71.37,Yes,106.816666,-6.2,3682.9
+1862,0,4,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,78.52,Yes,106.816666,-6.2,7449.0
+829,0,18,Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,64.41499999999999,Yes,106.816666,-6.2,3659.5
+1578,0,12,Bandung,Mid End,No,No,No,Yes,Yes,Yes,Digital Wallet,96.265,Yes,107.60981,-6.914744,5393.7
+1387,1,1,Jakarta,High End,No,No,No,No,Yes,No,Digital Wallet,104.065,Yes,106.816666,-6.2,3825.9
+5383,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.5,No,106.816666,-6.2,5557.5
+5152,0,42,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.325,No,106.816666,-6.2,7722.0
+75,1,24,Bandung,High End,No,No,No,No,No,No,Pulsa,98.92999999999999,Yes,107.60981,-6.914744,2623.4
+4906,0,26,Jakarta,High End,No,No,No,No,No,Yes,Debit,102.635,No,106.816666,-6.2,5508.1
+4600,0,68,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,No,Credit,94.9,No,106.816666,-6.2,5402.8
+3136,0,17,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.869999999999997,No,106.816666,-6.2,2720.9
+5709,0,59,Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Digital Wallet,144.43,No,107.60981,-6.914744,6437.6
+387,1,13,Jakarta,High End,No,No,No,No,No,No,Credit,96.72000000000001,Yes,106.816666,-6.2,4793.1
+4245,0,2,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.585,No,107.60981,-6.914744,3387.8
+5211,0,67,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.544999999999998,No,106.816666,-6.2,6492.2
+4240,0,17,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.065,No,107.60981,-6.914744,6276.400000000001
+2622,0,71,Bandung,Mid End,Yes,Yes,Yes,Yes,No,Yes,Digital Wallet,104.13,No,107.60981,-6.914744,7858.5
+414,1,17,Bandung,High End,No,No,Yes,Yes,Yes,Yes,Debit,128.18,Yes,107.60981,-6.914744,6708.0
+158,1,1,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116.415,Yes,106.816666,-6.2,6494.8
+5391,0,6,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.61,No,106.816666,-6.2,5358.6
+4707,0,61,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,148.32999999999998,No,106.816666,-6.2,6810.7
+6514,1,6,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96.005,No,106.816666,-6.2,5486.0
+834,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32.565000000000005,Yes,106.816666,-6.2,6294.6
+1204,1,21,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,133.64000000000001,Yes,106.816666,-6.2,4059.9
+6641,0,60,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,144.04,No,106.816666,-6.2,7724.6
+1048,1,20,Jakarta,High End,No,No,No,No,No,Yes,Credit,111.54,Yes,106.816666,-6.2,4336.8
+2945,1,22,Jakarta,High End,Yes,No,No,Yes,Yes,No,Credit,124.67000000000002,No,106.816666,-6.2,4169.1
+3542,0,40,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.78,No,106.816666,-6.2,4018.3
+525,1,23,Jakarta,High End,No,No,No,No,No,No,Pulsa,97.435,Yes,106.816666,-6.2,7666.1
+617,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59.73500000000001,Yes,106.816666,-6.2,5931.900000000001
+5359,0,46,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Digital Wallet,49.725,No,106.816666,-6.2,3448.9
+6643,1,5,Jakarta,High End,No,No,No,No,No,No,Credit,90.935,No,106.816666,-6.2,5005.0
+6972,0,68,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.0,No,106.816666,-6.2,7976.8
+349,1,1,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32.76,Yes,106.816666,-6.2,7394.400000000001
+5667,0,2,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.130000000000003,No,107.60981,-6.914744,5405.400000000001
+637,1,14,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136.305,Yes,106.816666,-6.2,2979.6
+588,1,10,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.0,Yes,106.816666,-6.2,4102.8
+2023,1,13,Bandung,High End,No,No,No,No,Yes,No,Credit,101.79,No,107.60981,-6.914744,7235.8
+431,0,34,Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Digital Wallet,142.74,Yes,107.60981,-6.914744,4433.0
+261,1,18,Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,74.685,Yes,107.60981,-6.914744,3885.7000000000003
+6730,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.61,No,106.816666,-6.2,6250.400000000001
+6068,0,70,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,143.65,No,106.816666,-6.2,7772.7
+2722,0,52,Jakarta,Mid End,Yes,No,Yes,No,Yes,No,Digital Wallet,83.59,No,106.816666,-6.2,5726.5
+6528,0,68,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,136.82500000000002,No,106.816666,-6.2,7533.5
+4529,0,38,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.480000000000004,No,107.60981,-6.914744,5010.2
+2662,0,58,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,31.85,No,106.816666,-6.2,5791.5
+4797,1,3,Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,117.91000000000001,No,106.816666,-6.2,5138.900000000001
+4205,0,14,Jakarta,Mid End,No,No,No,Yes,No,No,Debit,63.44,No,106.816666,-6.2,2818.4
+6384,1,2,Jakarta,Mid End,No,No,No,No,No,No,Credit,32.37,No,106.816666,-6.2,5242.900000000001
+47,1,1,Bandung,Mid End,No,No,No,No,No,No,Pulsa,32.24,Yes,107.60981,-6.914744,6306.3
+5326,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,No,Yes,Debit,139.62,No,106.816666,-6.2,6882.2
+915,1,3,Bandung,Mid End,No,No,No,No,No,No,Pulsa,56.29,Yes,107.60981,-6.914744,6303.7
+2739,1,13,Jakarta,High End,Yes,No,No,No,No,No,Credit,104.0,No,106.816666,-6.2,7250.1
+3053,0,72,Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,135.32999999999998,No,107.60981,-6.914744,6619.6
+3086,0,58,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.975,No,106.816666,-6.2,6405.1
+3473,0,71,Jakarta,High End,No,Yes,Yes,Yes,No,Yes,Credit,124.15,No,106.816666,-6.2,8335.6
+470,1,1,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,99.255,Yes,106.816666,-6.2,7296.900000000001
+3554,0,54,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,118.69,No,106.816666,-6.2,7679.1
+3019,0,39,Bandung,Mid End,Yes,No,No,Yes,Yes,No,Debit,58.565,No,107.60981,-6.914744,5203.900000000001
+1416,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.78,Yes,106.816666,-6.2,5281.900000000001
+6435,0,61,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Debit,105.04,No,106.816666,-6.2,5592.6
+519,1,25,Jakarta,High End,No,Yes,Yes,No,Yes,No,Debit,115.89500000000001,Yes,106.816666,-6.2,7608.900000000001
+5712,0,37,Bandung,High End,Yes,Yes,Yes,No,No,No,Debit,118.56,No,107.60981,-6.914744,6675.5
+999,1,26,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118.625,Yes,106.816666,-6.2,6700.2
+4961,0,10,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.675,No,107.60981,-6.914744,5103.8
+1689,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.52,Yes,106.816666,-6.2,4761.900000000001
+1362,0,24,Bandung,Mid End,No,No,Yes,No,No,Yes,Credit,52.845,Yes,107.60981,-6.914744,4995.900000000001
+2373,0,65,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,143.45499999999998,No,106.816666,-6.2,5583.5
+2092,0,23,Bandung,Mid End,No,No,No,No,Yes,Yes,Debit,84.37,No,107.60981,-6.914744,4308.2
+5625,0,49,Jakarta,Mid End,No,No,No,Yes,Yes,No,Debit,85.995,No,106.816666,-6.2,7979.400000000001
+6424,0,42,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,72.345,No,106.816666,-6.2,7580.3
+3537,0,8,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.105000000000004,No,106.816666,-6.2,5523.7
+5415,0,28,Jakarta,Mid End,No,Yes,No,Yes,No,No,Debit,71.045,No,106.816666,-6.2,4140.5
+4991,0,71,Bandung,Mid End,Yes,Yes,Yes,Yes,No,Yes,Debit,104.78,No,107.60981,-6.914744,7081.1
+102,0,69,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,129.285,Yes,106.816666,-6.2,5226.0
+2638,0,68,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,149.11,No,107.60981,-6.914744,7372.3
+7013,0,64,Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Debit,137.02,No,106.816666,-6.2,5865.6
+2432,1,3,Jakarta,High End,No,No,Yes,No,No,No,Digital Wallet,97.565,No,106.816666,-6.2,4608.5
+3622,0,66,Jakarta,Mid End,No,No,No,Yes,No,No,Credit,64.22,No,106.816666,-6.2,6801.6
+4613,0,28,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,23.725,No,106.816666,-6.2,6925.1
+3896,0,67,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,144.365,No,106.816666,-6.2,7933.900000000001
+3904,0,46,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.480000000000004,No,106.816666,-6.2,6619.6
+25,0,55,Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,125.775,Yes,106.816666,-6.2,6700.2
+3200,0,22,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90.61000000000001,No,106.816666,-6.2,6289.400000000001
+2745,1,18,Jakarta,High End,Yes,No,Yes,No,Yes,No,Digital Wallet,114.27000000000001,No,106.816666,-6.2,6749.6
+3850,0,46,Bandung,Mid End,Yes,No,Yes,Yes,No,No,Credit,52.52,No,107.60981,-6.914744,3274.7000000000003
+4874,1,10,Jakarta,High End,Yes,No,No,No,No,No,Credit,101.59500000000001,No,106.816666,-6.2,4423.900000000001
+6457,0,72,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129.22,No,106.816666,-6.2,7828.6
+4262,1,16,Bandung,Mid End,No,Yes,No,No,No,No,Pulsa,71.89,No,107.60981,-6.914744,4902.3
+1337,1,3,Jakarta,High End,No,No,No,No,No,No,Pulsa,100.10000000000001,Yes,106.816666,-6.2,4066.4
+3630,0,21,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,33.865,No,106.816666,-6.2,5592.6
+5400,1,5,Jakarta,High End,No,No,No,No,No,Yes,Digital Wallet,102.375,No,106.816666,-6.2,3393.0
+44,1,1,Bandung,Mid End,No,Yes,No,No,No,No,Debit,38.935,Yes,107.60981,-6.914744,5894.2
+796,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59.02,Yes,106.816666,-6.2,2818.4
+656,1,36,Jakarta,High End,No,No,No,No,No,Yes,Credit,110.825,Yes,106.816666,-6.2,3953.3
+5453,0,64,Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,135.26500000000001,No,107.60981,-6.914744,5638.1
+3443,0,30,Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,97.30499999999999,No,106.816666,-6.2,7293.0
+4968,0,72,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.415000000000003,No,107.60981,-6.914744,5751.2
+3238,0,46,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,107.60981,-6.914744,4409.6
+4218,0,45,Jakarta,High End,No,No,No,Yes,Yes,Yes,Credit,123.76,No,106.816666,-6.2,4371.900000000001
+975,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.845,Yes,106.816666,-6.2,4998.5
+6699,0,34,Bandung,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,71.5,No,107.60981,-6.914744,5235.1
+843,0,54,Bandung,High End,Yes,Yes,No,No,Yes,Yes,Debit,138.51500000000001,Yes,107.60981,-6.914744,6360.900000000001
+4348,0,21,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,4721.6
+4929,0,65,Jakarta,Mid End,Yes,No,Yes,Yes,No,Yes,Debit,98.995,No,106.816666,-6.2,8030.1
+5237,0,20,Jakarta,High End,No,No,No,No,No,No,Debit,90.74,No,106.816666,-6.2,7092.8
+579,1,1,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103.35000000000001,Yes,106.816666,-6.2,5837.0
+3193,0,42,Jakarta,Mid End,Yes,Yes,No,No,Yes,No,Debit,90.22000000000001,No,106.816666,-6.2,6111.3
+657,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.22,Yes,107.60981,-6.914744,5397.6
+2015,1,20,Bandung,High End,Yes,Yes,No,Yes,Yes,No,Pulsa,125.515,No,107.60981,-6.914744,5696.6
+2286,1,11,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.26,No,106.816666,-6.2,3295.5
+6040,0,61,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.89,No,106.816666,-6.2,5851.3
+3827,0,64,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.5,No,107.60981,-6.914744,7199.400000000001
+3786,1,25,Bandung,High End,No,Yes,Yes,No,No,Yes,Debit,114.92000000000002,No,107.60981,-6.914744,6303.7
+4851,0,44,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,65.19500000000001,No,106.816666,-6.2,7527.0
+404,1,5,Bandung,High End,No,No,No,No,No,No,Pulsa,90.935,Yes,107.60981,-6.914744,3859.7000000000003
+5582,0,48,Jakarta,Mid End,No,Yes,No,No,No,No,Debit,38.87,No,106.816666,-6.2,3402.1
+1092,1,6,Jakarta,High End,No,No,No,No,No,No,Pulsa,97.37,Yes,106.816666,-6.2,5408.0
+53,1,4,Bandung,Mid End,No,No,No,Yes,No,No,Digital Wallet,65.065,Yes,107.60981,-6.914744,4412.2
+3591,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.935,No,106.816666,-6.2,6619.6
+6954,0,54,Bandung,High End,No,No,Yes,No,No,Yes,Credit,116.22000000000001,No,107.60981,-6.914744,7632.3
+2122,0,66,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Debit,87.685,No,106.816666,-6.2,5423.6
+1857,1,3,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,64.87,Yes,106.816666,-6.2,7260.5
+2544,0,19,Bandung,Mid End,No,Yes,No,Yes,No,Yes,Debit,84.955,No,107.60981,-6.914744,2666.3
+6334,0,61,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Debit,105.3,No,106.816666,-6.2,5396.3
+4027,0,54,Jakarta,High End,Yes,No,Yes,No,Yes,No,Digital Wallet,116.74,No,106.816666,-6.2,6474.0
+7022,1,1,Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,64.935,No,106.816666,-6.2,6799.0
+702,1,19,Bandung,High End,No,No,Yes,No,No,No,Pulsa,103.80499999999999,Yes,107.60981,-6.914744,4829.5
+6649,0,24,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,106.816666,-6.2,4491.5
+4034,1,33,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,136.95499999999998,No,106.816666,-6.2,6159.400000000001
+4427,1,31,Jakarta,High End,No,Yes,No,No,No,Yes,Debit,109.005,No,106.816666,-6.2,5567.900000000001
+6621,0,59,Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,57.589999999999996,No,106.816666,-6.2,7676.5
+6005,1,20,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,118.3,No,106.816666,-6.2,4872.400000000001
+3975,0,60,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,128.70000000000002,No,106.816666,-6.2,6191.900000000001
+3411,0,18,Jakarta,High End,No,No,Yes,No,No,No,Credit,104.715,No,106.816666,-6.2,6934.2
+5147,0,19,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Pulsa,78.78,No,106.816666,-6.2,3201.9
+4260,0,24,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.61,No,107.60981,-6.914744,6034.6
+4773,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.325,No,106.816666,-6.2,5553.6
+4582,0,33,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.525000000000002,No,106.816666,-6.2,7190.3
+5989,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.22,No,106.816666,-6.2,7560.8
+5615,0,67,Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,121.09500000000001,No,106.816666,-6.2,5201.3
+5505,0,52,Bandung,Mid End,Yes,No,No,No,No,No,Debit,64.675,No,107.60981,-6.914744,8234.2
+4237,0,5,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.544999999999998,No,107.60981,-6.914744,3741.4
+4359,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.22,No,106.816666,-6.2,4108.0
+6081,0,67,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.740000000000002,No,106.816666,-6.2,5538.0
+1088,0,63,Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,129.87,Yes,106.816666,-6.2,6208.8
+4937,1,2,Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,64.935,No,106.816666,-6.2,6826.3
+1010,1,25,Jakarta,High End,Yes,No,No,No,No,Yes,Pulsa,115.765,Yes,106.816666,-6.2,3474.9
+2861,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,3680.3
+1874,0,62,Jakarta,Mid End,Yes,Yes,No,No,No,No,Debit,72.995,No,106.816666,-6.2,5887.7
+5565,0,23,Jakarta,Mid End,No,No,No,No,No,Yes,Debit,45.045,No,106.816666,-6.2,2999.1
+2673,0,70,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,84.435,No,106.816666,-6.2,7369.7
+5163,1,29,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,122.46000000000001,No,106.816666,-6.2,5929.3
+1411,1,32,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,102.57000000000001,Yes,106.816666,-6.2,7733.7
+1001,0,31,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,84.825,Yes,106.816666,-6.2,5723.900000000001
+5334,1,59,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,124.54,No,106.816666,-6.2,7111.0
+4020,0,32,Jakarta,Mid End,No,No,No,No,Yes,Yes,Debit,84.30499999999999,No,106.816666,-6.2,6363.5
+5214,0,17,Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Digital Wallet,64.74,No,106.816666,-6.2,7247.5
+3016,0,26,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.169999999999998,No,107.60981,-6.914744,7663.5
+5745,1,12,Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122.915,No,107.60981,-6.914744,7376.2
+2884,0,61,Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Debit,127.98500000000001,No,106.816666,-6.2,5200.0
+4987,0,71,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.480000000000004,No,107.60981,-6.914744,6357.0
+5223,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.585,No,106.816666,-6.2,3109.6
+1350,1,24,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135.525,Yes,107.60981,-6.914744,2735.2000000000003
+2131,1,7,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,115.89500000000001,No,106.816666,-6.2,3139.5
+2932,0,41,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,144.495,No,106.816666,-6.2,6549.400000000001
+1032,1,20,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117.26,Yes,106.816666,-6.2,2675.4
+5379,1,33,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118.625,No,106.816666,-6.2,4284.8
+3824,0,56,Bandung,Mid End,No,Yes,Yes,Yes,Yes,Yes,Credit,106.34,No,107.60981,-6.914744,5718.7
+598,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.85000000000001,Yes,106.816666,-6.2,7220.2
+985,1,4,Jakarta,High End,No,No,No,No,No,No,Pulsa,98.865,Yes,106.816666,-6.2,4790.5
+1812,0,54,Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,144.43,Yes,107.60981,-6.914744,7185.1
+1983,0,8,Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Pulsa,89.115,No,106.816666,-6.2,4059.9
+4212,0,58,Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,58.5,No,106.816666,-6.2,6507.8
+5463,1,34,Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,131.105,No,107.60981,-6.914744,7658.3
+795,1,2,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,39.519999999999996,Yes,106.816666,-6.2,5202.6
+830,1,25,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,124.67000000000002,Yes,106.816666,-6.2,2913.3
+5103,0,68,Jakarta,High End,No,No,Yes,No,Yes,No,Debit,116.935,No,106.816666,-6.2,7373.6
+5212,0,71,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,136.69500000000002,No,106.816666,-6.2,7419.1
+879,1,1,Jakarta,Mid End,No,No,Yes,No,No,Yes,Pulsa,76.96000000000001,Yes,106.816666,-6.2,6526.0
+662,1,13,Bandung,High End,Yes,No,No,No,Yes,Yes,Digital Wallet,127.59500000000001,Yes,107.60981,-6.914744,7182.5
+1404,1,5,Jakarta,High End,Yes,No,Yes,No,No,No,Pulsa,109.85000000000001,Yes,106.816666,-6.2,6683.3
+6480,0,22,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,27.105000000000004,No,106.816666,-6.2,4122.3
+2609,0,10,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33.93,No,107.60981,-6.914744,4132.7
+4868,0,55,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.2,No,106.816666,-6.2,6445.400000000001
+3175,0,27,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.715000000000003,No,106.816666,-6.2,2949.7000000000003
+4830,0,10,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.505000000000003,No,106.816666,-6.2,7733.7
+2935,0,23,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,27.105000000000004,No,106.816666,-6.2,5541.900000000001
+6814,0,70,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,109.33,No,106.816666,-6.2,7238.400000000001
+1450,1,5,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59.800000000000004,Yes,106.816666,-6.2,6299.8
+6823,0,24,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.415000000000003,No,106.816666,-6.2,3264.3
+4625,0,8,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.26,No,106.816666,-6.2,6585.8
+6137,0,19,Jakarta,High End,Yes,Yes,No,Yes,No,No,Credit,115.44,No,106.816666,-6.2,5980.0
+6039,0,43,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,130.715,No,106.816666,-6.2,5848.7
+3985,0,67,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,131.82000000000002,No,106.816666,-6.2,6849.7
+4685,1,4,Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,71.89,No,106.816666,-6.2,4789.2
+4061,0,59,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,147.875,No,106.816666,-6.2,8126.3
+2405,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,33.019999999999996,No,106.816666,-6.2,7165.6
+5321,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.0,No,106.816666,-6.2,6744.400000000001
+762,1,1,Jakarta,High End,No,No,Yes,No,No,No,Debit,95.55,Yes,106.816666,-6.2,5691.400000000001
+1217,0,30,Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Credit,66.56,Yes,106.816666,-6.2,5938.400000000001
+124,1,2,Jakarta,High End,Yes,No,No,No,No,No,Pulsa,96.72000000000001,Yes,106.816666,-6.2,5541.900000000001
+2844,0,60,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,85.60499999999999,No,106.816666,-6.2,5268.900000000001
+4581,0,44,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,144.95000000000002,No,106.816666,-6.2,3675.1
+6025,1,1,Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,63.18000000000001,No,106.816666,-6.2,4815.2
+6857,1,3,Bandung,Mid End,No,No,No,Yes,No,No,Pulsa,38.87,No,107.60981,-6.914744,5740.8
+4925,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.305,No,106.816666,-6.2,5677.1
+4700,1,2,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,63.96000000000001,No,106.816666,-6.2,3044.6
+6396,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,33.605000000000004,No,106.816666,-6.2,5807.1
+4739,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,150.15,No,106.816666,-6.2,5222.1
+6145,1,6,Jakarta,High End,No,Yes,No,No,No,Yes,Digital Wallet,111.73500000000001,No,106.816666,-6.2,4278.3
+619,1,1,Jakarta,High End,No,No,Yes,No,Yes,No,Credit,111.215,Yes,106.816666,-6.2,5157.1
+3502,1,20,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116.935,No,106.816666,-6.2,6255.6
+623,1,1,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,114.85499999999999,Yes,106.816666,-6.2,5530.2
+2254,0,12,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.065,No,106.816666,-6.2,6494.8
+4459,1,9,Bandung,Mid End,No,No,No,No,No,No,Pulsa,32.435,No,107.60981,-6.914744,7114.900000000001
+5564,0,12,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,106.816666,-6.2,6732.7
+2381,1,1,Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,64.87,No,106.816666,-6.2,6067.1
+4675,0,17,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.544999999999998,No,106.816666,-6.2,6206.2
+5546,1,12,Jakarta,High End,No,No,No,Yes,No,No,Credit,103.415,No,106.816666,-6.2,4478.5
+607,1,12,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138.71,Yes,106.816666,-6.2,3127.8
+1316,0,15,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,72.41000000000001,Yes,106.816666,-6.2,5874.7
+4578,0,71,Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,128.70000000000002,No,106.816666,-6.2,6883.5
+569,1,30,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110.5,Yes,106.816666,-6.2,4807.400000000001
+5914,0,33,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.195,No,106.816666,-6.2,7486.7
+5425,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.869999999999997,No,106.816666,-6.2,6574.1
+2770,0,62,Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,91.58500000000001,No,106.816666,-6.2,6574.1
+4973,0,72,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,151.84,No,107.60981,-6.914744,8127.6
+5605,0,30,Jakarta,Mid End,Yes,No,No,Yes,No,Yes,Debit,86.19,No,106.816666,-6.2,6020.3
+5052,0,3,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.715000000000003,No,107.60981,-6.914744,3606.2000000000003
+3707,0,28,Jakarta,High End,No,No,No,Yes,No,Yes,Pulsa,117.58500000000001,No,106.816666,-6.2,7569.900000000001
+2536,0,30,Bandung,High End,Yes,Yes,No,No,No,Yes,Credit,122.59,No,107.60981,-6.914744,5484.7
+143,0,12,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.7,Yes,106.816666,-6.2,4595.5
+2382,0,51,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.980000000000004,No,106.816666,-6.2,6351.8
+6668,0,15,Bandung,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,59.67,No,107.60981,-6.914744,4643.6
+4429,0,72,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.63,No,107.60981,-6.914744,5440.5
+1513,0,32,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,140.595,Yes,106.816666,-6.2,3303.3
+4012,1,6,Jakarta,High End,Yes,No,No,No,No,No,Pulsa,96.33,No,106.816666,-6.2,6130.8
+4323,0,63,Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Credit,92.04,No,106.816666,-6.2,6648.2
+1633,1,11,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,123.69500000000001,Yes,106.816666,-6.2,5296.2
+6324,0,19,Jakarta,Mid End,No,No,No,Yes,Yes,No,Credit,80.015,No,106.816666,-6.2,7580.3
+2858,0,64,Jakarta,Mid End,Yes,No,Yes,No,Yes,Yes,Credit,94.965,No,106.816666,-6.2,5869.5
+4828,0,7,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,No,Pulsa,90.28500000000001,No,106.816666,-6.2,4334.2
+3845,0,4,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,107.60981,-6.914744,4498.0
+2840,0,7,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,4330.3
+2093,1,4,Bandung,High End,No,No,Yes,Yes,No,Yes,Pulsa,117.52000000000001,No,107.60981,-6.914744,4308.2
+6295,1,3,Bandung,High End,Yes,No,No,No,No,No,Pulsa,96.915,No,107.60981,-6.914744,6662.5
+3036,0,65,Bandung,Mid End,No,Yes,Yes,No,Yes,Yes,Debit,69.55,No,107.60981,-6.914744,7400.900000000001
+4792,0,42,Jakarta,Mid End,Yes,No,No,Yes,No,Yes,Credit,82.81,No,106.816666,-6.2,4893.2
+4936,0,26,Jakarta,Mid End,Yes,No,No,Yes,Yes,Yes,Debit,97.5,No,106.816666,-6.2,6116.5
+4740,0,48,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.565000000000005,No,106.816666,-6.2,4734.6
+5911,0,69,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,129.155,No,106.816666,-6.2,6028.1
+6623,0,17,Jakarta,Mid End,Yes,No,Yes,No,Yes,No,Credit,57.785000000000004,No,106.816666,-6.2,4578.6
+495,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,27.3,Yes,107.60981,-6.914744,4878.900000000001
+826,1,4,Jakarta,High End,No,Yes,No,No,No,No,Debit,99.64500000000001,Yes,106.816666,-6.2,5954.0
+3863,0,34,Bandung,High End,No,Yes,No,Yes,Yes,No,Pulsa,125.255,No,107.60981,-6.914744,7052.5
+6510,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.455,No,106.816666,-6.2,4459.0
+840,1,1,Bandung,Mid End,No,No,Yes,No,No,No,Digital Wallet,65.58500000000001,Yes,107.60981,-6.914744,3153.8
+3974,0,12,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.39,No,106.816666,-6.2,5430.1
+7035,0,38,Jakarta,High End,No,No,No,No,No,No,Credit,90.35000000000001,No,106.816666,-6.2,5968.3
+3014,0,31,Bandung,Mid End,No,Yes,No,Yes,Yes,Yes,Debit,104.715,No,107.60981,-6.914744,4538.3
+969,0,67,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,141.375,Yes,106.816666,-6.2,7170.8
+5009,1,22,Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,115.375,No,107.60981,-6.914744,7260.5
+2535,0,63,Bandung,High End,No,No,No,Yes,No,No,Credit,105.56,No,107.60981,-6.914744,7881.900000000001
+6606,0,70,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Debit,103.47999999999999,No,106.816666,-6.2,7116.2
+4005,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.585,No,106.816666,-6.2,3463.2000000000003
+528,1,49,Jakarta,High End,No,Yes,No,No,Yes,Yes,Digital Wallet,130.585,Yes,106.816666,-6.2,5505.5
+5902,0,71,Jakarta,High End,No,Yes,Yes,No,No,Yes,Credit,116.28500000000001,No,106.816666,-6.2,7805.2
+2701,0,23,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,86.125,No,106.816666,-6.2,2693.6
+5692,0,72,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,118.04,No,107.60981,-6.914744,6536.400000000001
+5124,0,72,Jakarta,Mid End,Yes,No,Yes,No,Yes,No,Debit,92.885,No,106.816666,-6.2,7352.8
+280,1,2,Bandung,High End,No,No,No,No,No,No,Debit,90.675,Yes,107.60981,-6.914744,7367.1
+5544,0,42,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Debit,77.545,No,106.816666,-6.2,3962.4
+6199,0,47,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,107.60981,-6.914744,4995.900000000001
+4196,0,29,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,No,106.816666,-6.2,3823.3
+4021,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,82.94,No,106.816666,-6.2,7939.1
+200,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.415,Yes,106.816666,-6.2,3954.6
+6007,0,40,Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,66.43,No,106.816666,-6.2,4361.5
+1237,1,1,Jakarta,Mid End,No,No,Yes,Yes,No,No,Digital Wallet,80.66499999999999,Yes,106.816666,-6.2,3818.1
+1782,1,1,Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,110.5,Yes,106.816666,-6.2,3445.0
+1840,0,70,Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,127.79,Yes,106.816666,-6.2,6232.2
+6979,0,49,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.869999999999997,No,106.816666,-6.2,6812.0
+397,1,17,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,99.64500000000001,Yes,106.816666,-6.2,4136.6
+5136,0,33,Jakarta,Mid End,No,Yes,Yes,No,Yes,No,Credit,86.32000000000001,No,106.816666,-6.2,4995.900000000001
+287,1,17,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,130.585,Yes,106.816666,-6.2,7160.400000000001
+6355,0,21,Jakarta,Mid End,Yes,No,No,No,Yes,Yes,Debit,98.67000000000002,No,106.816666,-6.2,4553.900000000001
+1015,0,35,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Credit,111.73500000000001,Yes,106.816666,-6.2,4982.900000000001
+7037,0,12,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,78.845,No,106.816666,-6.2,4862.0
+6210,0,9,Bandung,Mid End,No,Yes,No,No,No,No,Digital Wallet,66.105,No,107.60981,-6.914744,6009.900000000001
+6158,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.785,No,106.816666,-6.2,6935.5
+4324,0,18,Jakarta,Mid End,Yes,No,No,No,No,Yes,Credit,76.83,No,106.816666,-6.2,3148.6
+4680,0,58,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,141.82999999999998,No,106.816666,-6.2,6415.5
+3777,1,30,Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,131.69,No,107.60981,-6.914744,3172.0
+5263,0,56,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Digital Wallet,150.605,No,106.816666,-6.2,6418.1
+732,1,10,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,123.37,Yes,106.816666,-6.2,3681.6
+482,1,2,Bandung,Mid End,No,No,No,No,No,Yes,Pulsa,45.63,Yes,107.60981,-6.914744,3435.9
+6077,0,18,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.045,No,106.816666,-6.2,6800.3
+4819,0,51,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Pulsa,72.995,No,106.816666,-6.2,5371.6
+4635,0,60,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Debit,142.285,No,106.816666,-6.2,5655.0
+4302,0,24,Bandung,Mid End,Yes,No,No,Yes,No,No,Pulsa,71.69500000000001,No,107.60981,-6.914744,2860.0
+1729,0,70,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,150.345,Yes,107.60981,-6.914744,7231.900000000001
+4057,0,12,Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,69.875,No,106.816666,-6.2,7000.5
+2699,0,25,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Debit,80.08,No,106.816666,-6.2,4949.1
+4899,0,36,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.455000000000002,No,106.816666,-6.2,4583.8
+3576,1,11,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117.78,No,106.816666,-6.2,2605.2000000000003
+1580,1,7,Bandung,High End,No,Yes,No,Yes,Yes,No,Pulsa,116.675,Yes,107.60981,-6.914744,4949.1
+5169,1,26,Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,127.53,No,106.816666,-6.2,4048.2000000000003
+2449,0,41,Jakarta,High End,No,No,No,Yes,No,No,Pulsa,96.525,No,106.816666,-6.2,4260.1
+4928,0,57,Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Pulsa,71.5,No,106.816666,-6.2,6008.6
+709,1,28,Bandung,High End,No,No,No,No,Yes,Yes,Debit,117.13,Yes,107.60981,-6.914744,7745.400000000001
+6338,0,10,Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Digital Wallet,84.37,No,106.816666,-6.2,6347.900000000001
+4406,0,41,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,73.19,No,106.816666,-6.2,3892.2000000000003
+2101,0,22,Bandung,High End,Yes,No,No,Yes,No,Yes,Pulsa,115.765,No,107.60981,-6.914744,7122.7
+629,0,57,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,146.835,Yes,106.816666,-6.2,6159.400000000001
+2783,0,13,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.285,No,106.816666,-6.2,4938.7
+4377,0,61,Jakarta,High End,Yes,Yes,Yes,No,No,Yes,Credit,130.91,No,106.816666,-6.2,6245.2
+6452,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,106.816666,-6.2,7554.3
+5933,0,18,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.155,No,106.816666,-6.2,2949.7000000000003
+4941,1,6,Jakarta,High End,No,No,No,Yes,No,Yes,Debit,114.33500000000001,No,106.816666,-6.2,3489.2000000000003
+415,0,7,Bandung,Mid End,No,No,No,Yes,Yes,No,Digital Wallet,77.35000000000001,Yes,107.60981,-6.914744,6059.3
+5930,0,9,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,71.89,No,106.816666,-6.2,5578.3
+1677,1,1,Jakarta,Mid End,No,No,No,Yes,No,No,Credit,64.025,Yes,106.816666,-6.2,5821.400000000001
+1354,1,9,Bandung,High End,No,No,No,No,No,Yes,Pulsa,105.04,Yes,107.60981,-6.914744,5057.0
+6762,0,49,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.585,No,106.816666,-6.2,7879.3
+15,1,15,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Credit,128.82999999999998,Yes,106.816666,-6.2,3855.8
+3385,0,30,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.415000000000003,No,106.816666,-6.2,6763.900000000001
+2472,0,70,Jakarta,High End,No,No,No,No,No,No,Credit,98.34500000000001,No,106.816666,-6.2,5435.3
+1878,1,25,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,137.15,No,106.816666,-6.2,7568.6
+2528,0,49,Bandung,Mid End,Yes,No,No,Yes,No,No,Credit,46.54,No,107.60981,-6.914744,6324.5
+6362,0,18,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32.695,No,106.816666,-6.2,3477.5
+5314,0,25,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,24.96,No,106.816666,-6.2,2806.7000000000003
+6564,0,23,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Digital Wallet,52.13,No,106.816666,-6.2,3025.1
+5887,0,67,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,134.095,No,106.816666,-6.2,5688.8
+2578,0,35,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.650000000000002,No,107.60981,-6.914744,2611.7000000000003
+406,1,1,Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59.605000000000004,Yes,107.60981,-6.914744,7709.0
+3117,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,148.785,No,106.816666,-6.2,8156.200000000001
+4955,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.91,No,107.60981,-6.914744,3979.3
+3083,0,60,Bandung,High End,Yes,No,No,No,No,No,Pulsa,105.23500000000001,No,107.60981,-6.914744,8078.200000000001
+3855,0,7,Bandung,Mid End,Yes,No,No,No,No,Yes,Pulsa,76.83,No,107.60981,-6.914744,6201.0
+2822,0,64,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,106.816666,-6.2,7846.8
+3931,0,15,Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,63.505,No,106.816666,-6.2,7259.2
+165,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,Yes,106.816666,-6.2,3070.6
+6169,1,13,Bandung,Mid End,Yes,No,Yes,No,Yes,Yes,Pulsa,102.375,No,107.60981,-6.914744,7320.3
+1293,1,26,Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,127.855,Yes,107.60981,-6.914744,6496.1
+6834,0,52,Jakarta,Mid End,Yes,No,Yes,No,No,No,Digital Wallet,46.08500000000001,No,106.816666,-6.2,7161.7
+1482,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.26,Yes,106.816666,-6.2,7012.2
+1256,1,15,Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,116.80499999999999,Yes,106.816666,-6.2,3468.4
+1220,1,2,Jakarta,High End,No,No,No,No,No,No,Credit,97.37,Yes,106.816666,-6.2,2701.4
+1271,1,31,Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,118.495,Yes,107.60981,-6.914744,6784.7
+4631,0,26,Jakarta,High End,No,Yes,No,No,No,No,Debit,98.15,No,106.816666,-6.2,6739.2
+1873,0,10,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,38.675000000000004,No,106.816666,-6.2,2616.9
+6087,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,106.816666,-6.2,2687.1
+1323,1,2,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103.47999999999999,Yes,106.816666,-6.2,5618.6
+998,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.090000000000003,Yes,106.816666,-6.2,2962.7000000000003
+605,1,13,Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Debit,63.375,Yes,106.816666,-6.2,3451.5
+2006,0,33,Bandung,Mid End,Yes,No,Yes,No,Yes,Yes,Credit,97.175,No,107.60981,-6.914744,6947.2
+5984,0,46,Jakarta,High End,No,Yes,Yes,No,Yes,No,Debit,118.69,No,106.816666,-6.2,4148.3
+2639,1,13,Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,63.895,No,107.60981,-6.914744,3900.0
+848,0,37,Bandung,High End,Yes,Yes,No,No,Yes,Yes,Debit,138.775,Yes,107.60981,-6.914744,7603.7
+3865,0,61,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,24.830000000000002,No,107.60981,-6.914744,5688.8
+2443,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.040000000000003,No,106.816666,-6.2,4781.400000000001
+6521,1,9,Jakarta,High End,No,No,No,Yes,No,No,Pulsa,98.60499999999999,No,106.816666,-6.2,6295.900000000001
+6044,1,3,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90.47999999999999,No,106.816666,-6.2,7133.1
+1996,0,69,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.869999999999997,No,107.60981,-6.914744,7241.0
+3789,0,62,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.39,No,107.60981,-6.914744,5946.2
+2170,0,20,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.61,No,106.816666,-6.2,2756.0
+5681,0,61,Bandung,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,135.20000000000002,No,107.60981,-6.914744,5647.2
+6360,0,4,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,31.07,No,106.816666,-6.2,7390.5
+4781,1,63,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,133.38,No,106.816666,-6.2,5205.2
+5026,0,50,Bandung,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,45.5,No,107.60981,-6.914744,7317.7
+1635,1,1,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104.65,Yes,106.816666,-6.2,3554.2000000000003
+2492,0,70,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,96.33,No,106.816666,-6.2,8222.5
+2475,0,72,Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Debit,99.84,No,106.816666,-6.2,6656.0
+6118,0,35,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Pulsa,78.715,No,106.816666,-6.2,4501.900000000001
+3017,0,12,Bandung,Mid End,Yes,Yes,No,Yes,No,No,Pulsa,87.425,No,107.60981,-6.914744,5634.2
+6379,0,56,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,142.74,No,106.816666,-6.2,7342.400000000001
+1824,1,12,Bandung,High End,No,No,No,No,No,No,Credit,95.875,Yes,107.60981,-6.914744,2613.0
+3400,0,36,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,72.53999999999999,No,106.816666,-6.2,6201.0
+5732,0,40,Bandung,High End,Yes,No,Yes,No,Yes,Yes,Debit,137.475,No,107.60981,-6.914744,5301.400000000001
+1116,0,3,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.480000000000004,Yes,107.60981,-6.914744,6500.0
+2379,0,40,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Credit,134.875,No,106.816666,-6.2,4638.400000000001
+3696,0,67,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,92.17000000000002,No,106.816666,-6.2,5669.3
+2729,0,67,Jakarta,Mid End,Yes,No,Yes,Yes,No,Yes,Debit,94.05499999999999,No,106.816666,-6.2,6383.0
+3440,1,7,Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,86.905,No,106.816666,-6.2,6315.400000000001
+4062,1,3,Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,117.52000000000001,No,106.816666,-6.2,7312.5
+4666,1,42,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,130.39000000000001,No,106.816666,-6.2,4271.8
+4648,0,40,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,34.06,No,106.816666,-6.2,2874.3
+6991,0,53,Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Pulsa,122.2,No,106.816666,-6.2,8261.5
+5171,0,3,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.415000000000003,No,106.816666,-6.2,5055.7
+6702,1,9,Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,117.13,No,107.60981,-6.914744,3760.9
+2812,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.130000000000003,No,106.816666,-6.2,5983.900000000001
+1641,0,46,Jakarta,High End,Yes,No,No,No,No,Yes,Pulsa,110.5,Yes,106.816666,-6.2,2726.1
+2428,0,61,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31.330000000000002,No,106.816666,-6.2,7761.0
+3439,0,54,Jakarta,Mid End,Yes,No,Yes,Yes,No,Yes,Debit,90.935,No,106.816666,-6.2,6600.1
+1557,1,11,Bandung,Mid End,No,No,Yes,No,Yes,No,Pulsa,54.080000000000005,Yes,107.60981,-6.914744,4054.7000000000003
+5044,0,29,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,107.60981,-6.914744,7485.400000000001
+581,0,67,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,144.69,Yes,106.816666,-6.2,5389.8
+3693,1,49,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,127.33500000000001,No,106.816666,-6.2,5591.3
+4165,0,72,Jakarta,High End,Yes,Yes,No,Yes,No,Yes,Debit,130.715,No,106.816666,-6.2,7906.6
+6826,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,113.425,No,106.816666,-6.2,5375.5
+3165,0,44,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Debit,97.30499999999999,No,106.816666,-6.2,4228.900000000001
+3362,0,41,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Debit,78.39,No,106.816666,-6.2,5934.5
+2273,0,11,Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,76.635,No,106.816666,-6.2,5044.0
+5288,0,13,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.090000000000003,No,106.816666,-6.2,7692.1
+2793,0,55,Jakarta,High End,No,No,Yes,Yes,Yes,No,Credit,115.44,No,106.816666,-6.2,5578.3
+1791,0,11,Bandung,Mid End,Yes,No,No,No,No,No,Credit,63.115,Yes,107.60981,-6.914744,5777.2
+6974,0,48,Jakarta,Mid End,No,Yes,Yes,No,No,Yes,Credit,59.214999999999996,No,106.816666,-6.2,5337.8
+2469,0,31,Jakarta,High End,No,No,No,Yes,No,No,Credit,106.21000000000001,No,106.816666,-6.2,6305.0
+4834,0,63,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,141.96,No,106.816666,-6.2,5554.900000000001
+4977,0,61,Bandung,Mid End,No,No,Yes,No,Yes,No,Pulsa,84.76,No,107.60981,-6.914744,8109.400000000001
+6596,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,31.525000000000002,No,106.816666,-6.2,7666.1
+3775,0,53,Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,140.725,No,107.60981,-6.914744,7785.7
+3547,0,7,Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,62.660000000000004,No,106.816666,-6.2,7182.5
+112,1,28,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105.365,Yes,106.816666,-6.2,6761.3
+494,1,16,Bandung,High End,No,No,No,No,No,No,Pulsa,94.44500000000001,Yes,107.60981,-6.914744,3705.0
+4495,1,7,Bandung,High End,No,No,No,No,No,No,Pulsa,92.365,No,107.60981,-6.914744,6068.400000000001
+4304,1,5,Bandung,Mid End,No,Yes,No,No,No,Yes,Pulsa,83.2,No,107.60981,-6.914744,5747.3
+6141,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,31.07,No,106.816666,-6.2,7112.3
+674,0,7,Bandung,Mid End,Yes,No,No,Yes,No,No,Pulsa,44.85,Yes,107.60981,-6.914744,4576.0
+3025,1,11,Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,144.82000000000002,No,107.60981,-6.914744,4127.5
+4019,0,52,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,83.07000000000001,No,106.816666,-6.2,6994.0
+3603,0,49,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,87.62,No,106.816666,-6.2,6597.5
+3234,0,19,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.44,No,107.60981,-6.914744,3790.8
+284,1,2,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105.23500000000001,Yes,106.816666,-6.2,4592.900000000001
+6434,0,52,Jakarta,High End,No,Yes,No,Yes,No,Yes,Credit,124.34500000000001,No,106.816666,-6.2,5804.5
+2343,1,23,Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,109.525,No,106.816666,-6.2,3615.3
+4562,1,8,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.61000000000001,No,106.816666,-6.2,6814.6
+3944,0,65,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,135.07000000000002,No,106.816666,-6.2,7369.7
+6071,1,2,Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,71.89,No,106.816666,-6.2,5972.2
+2635,0,62,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,30.744999999999997,No,107.60981,-6.914744,6072.3
+6932,1,3,Bandung,High End,No,No,Yes,Yes,Yes,No,Digital Wallet,116.80499999999999,No,107.60981,-6.914744,5324.8
+5792,1,49,Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,121.745,No,106.816666,-6.2,7204.6
+120,1,15,Jakarta,High End,No,No,No,No,No,No,Debit,89.7,Yes,106.816666,-6.2,7372.3
+2124,0,41,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.325,No,106.816666,-6.2,5163.6
+5015,1,46,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135.785,No,107.60981,-6.914744,5333.900000000001
+4163,0,56,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,33.735,No,106.816666,-6.2,5519.8
+5821,0,48,Jakarta,High End,Yes,No,No,Yes,No,Yes,Pulsa,124.02000000000001,No,106.816666,-6.2,5634.2
+2885,1,2,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91.91000000000001,No,106.816666,-6.2,3104.4
+2601,0,72,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,30.875,No,107.60981,-6.914744,6399.900000000001
+2361,0,45,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Debit,102.44,No,106.816666,-6.2,5449.6
+2129,0,37,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,81.64,No,106.816666,-6.2,6797.7
+5179,0,61,Jakarta,High End,No,No,Yes,No,No,Yes,Digital Wallet,115.96000000000001,No,106.816666,-6.2,7196.8
+4844,0,60,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.78,No,106.816666,-6.2,5449.6
+952,1,2,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,65.19500000000001,Yes,106.816666,-6.2,7099.3
+3119,0,63,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,98.215,No,106.816666,-6.2,6013.8
+236,1,4,Bandung,High End,No,No,No,No,No,Yes,Pulsa,109.97999999999999,Yes,107.60981,-6.914744,3207.1
+1119,0,62,Bandung,High End,Yes,Yes,No,Yes,No,Yes,Pulsa,132.6,Yes,107.60981,-6.914744,6617.0
+2339,0,62,Jakarta,High End,Yes,Yes,Yes,No,No,No,Pulsa,119.665,No,106.816666,-6.2,7541.3
+3125,0,69,Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Credit,126.94500000000001,No,106.816666,-6.2,7421.7
+1012,1,4,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,137.345,Yes,106.816666,-6.2,6061.900000000001
+6988,0,49,Jakarta,Mid End,No,Yes,No,Yes,Yes,Yes,Credit,73.19,No,106.816666,-6.2,7686.900000000001
+4804,0,51,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,105.495,No,106.816666,-6.2,5913.7
+3257,0,26,Bandung,Mid End,Yes,Yes,No,No,No,Yes,Debit,58.045,No,107.60981,-6.914744,5865.6
+4722,1,9,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,56.875,No,106.816666,-6.2,7337.2
+3584,0,57,Jakarta,High End,No,Yes,No,Yes,No,Yes,Pulsa,123.11000000000001,No,106.816666,-6.2,5859.1
+6818,0,37,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.35,No,106.816666,-6.2,5101.2
+5135,1,30,Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,126.10000000000001,No,106.816666,-6.2,5363.8
+4169,0,70,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,140.27,No,106.816666,-6.2,7668.7
+1360,1,22,Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,116.22000000000001,Yes,107.60981,-6.914744,7069.400000000001
+1151,0,39,Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Credit,63.635000000000005,Yes,106.816666,-6.2,4004.0
+252,0,33,Bandung,High End,No,Yes,No,No,No,No,Debit,104.78,Yes,107.60981,-6.914744,4681.3
+5286,0,60,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,151.57999999999998,No,106.816666,-6.2,7384.0
+1946,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.285,No,106.816666,-6.2,7295.6
+2890,0,12,Jakarta,Mid End,No,No,Yes,No,Yes,No,Credit,75.855,No,106.816666,-6.2,6588.400000000001
+4900,0,51,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,5274.1
+3424,1,22,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104.19500000000001,No,106.816666,-6.2,6151.6
+3087,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.44,No,106.816666,-6.2,6708.0
+6498,1,39,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130.0,No,106.816666,-6.2,7064.2
+1053,1,4,Jakarta,High End,No,Yes,No,Yes,No,Yes,Pulsa,121.55,Yes,106.816666,-6.2,5920.2
+1187,0,39,Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,104.58500000000001,Yes,106.816666,-6.2,2891.2000000000003
+6592,0,69,Jakarta,High End,Yes,Yes,No,No,No,No,Credit,110.37,No,106.816666,-6.2,5853.900000000001
+3551,0,8,Jakarta,Mid End,No,No,Yes,Yes,No,Yes,Credit,83.72000000000001,No,106.816666,-6.2,5898.1
+4360,0,68,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.565000000000005,No,106.816666,-6.2,5443.1
+1776,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.97500000000001,Yes,106.816666,-6.2,5729.1
+1240,0,24,Jakarta,Mid End,Yes,No,No,No,No,Yes,Debit,50.830000000000005,Yes,106.816666,-6.2,5968.3
+1620,0,42,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,65.325,Yes,106.816666,-6.2,6334.900000000001
+6461,0,59,Jakarta,Mid End,No,Yes,No,Yes,Yes,Yes,Pulsa,104.13,No,106.816666,-6.2,5320.900000000001
+172,1,1,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104.0,Yes,106.816666,-6.2,2659.8
+5318,0,46,Jakarta,Mid End,Yes,Yes,No,No,No,No,Debit,45.565,No,106.816666,-6.2,6277.7
+1630,1,4,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,38.545,Yes,106.816666,-6.2,5469.1
+2864,0,11,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.585,No,106.816666,-6.2,3387.8
+3232,0,59,Bandung,Mid End,Yes,Yes,Yes,No,Yes,No,Credit,86.32000000000001,No,107.60981,-6.914744,8361.6
+3867,0,53,Bandung,Mid End,No,No,Yes,No,No,Yes,Credit,78.78,No,107.60981,-6.914744,6310.2
+5173,1,3,Jakarta,Mid End,No,No,No,No,Yes,No,Pulsa,70.46000000000001,No,106.816666,-6.2,4117.1
+3726,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.825,No,106.816666,-6.2,5916.3
+1094,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.635,Yes,106.816666,-6.2,7023.900000000001
+5541,0,24,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,27.040000000000003,No,106.816666,-6.2,6050.2
+2629,1,45,Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,111.92999999999999,No,107.60981,-6.914744,3511.3
+4485,0,49,Bandung,Mid End,Yes,No,No,No,Yes,No,Debit,52.845,No,107.60981,-6.914744,7234.5
+2210,0,61,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31.72,No,106.816666,-6.2,6370.0
+5301,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.39,No,106.816666,-6.2,3874.0
+799,1,5,Jakarta,High End,No,No,No,Yes,No,Yes,Credit,111.02000000000001,Yes,106.816666,-6.2,4830.8
+399,1,2,Jakarta,Mid End,Yes,Yes,No,No,No,Yes,Pulsa,55.38,Yes,106.816666,-6.2,6042.400000000001
+2585,0,25,Bandung,Mid End,Yes,Yes,Yes,Yes,No,Yes,Debit,106.275,No,107.60981,-6.914744,7692.1
+5238,1,60,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137.995,No,106.816666,-6.2,5349.5
+2104,0,51,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,143.065,No,106.816666,-6.2,7285.2
+1795,1,2,Bandung,Mid End,Yes,No,No,No,No,No,Digital Wallet,73.71000000000001,Yes,107.60981,-6.914744,7228.0
+250,1,62,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134.875,Yes,107.60981,-6.914744,6567.6
+3859,0,52,Bandung,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,105.82000000000001,No,107.60981,-6.914744,6016.400000000001
+2464,0,68,Jakarta,Mid End,Yes,Yes,Yes,No,No,Yes,Credit,99.97000000000001,No,106.816666,-6.2,6961.5
+1988,1,22,Jakarta,High End,No,No,No,No,Yes,No,Debit,109.39500000000001,No,106.816666,-6.2,4613.7
+1719,1,1,Bandung,Mid End,No,No,No,No,No,No,Pulsa,32.565000000000005,Yes,107.60981,-6.914744,2754.7000000000003
+63,1,3,Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,53.495,Yes,107.60981,-6.914744,3008.2000000000003
+654,1,16,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125.32000000000001,Yes,106.816666,-6.2,3494.4
+784,1,32,Jakarta,High End,No,Yes,No,No,No,No,Pulsa,96.72000000000001,Yes,106.816666,-6.2,2718.3
+2070,0,50,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.37,No,107.60981,-6.914744,5586.1
+3180,1,1,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,63.375,No,106.816666,-6.2,6588.400000000001
+224,1,6,Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,109.07000000000001,Yes,107.60981,-6.914744,5150.6
+931,1,1,Bandung,Mid End,No,Yes,No,No,No,No,Pulsa,65.97500000000001,Yes,107.60981,-6.914744,6961.5
+6482,0,29,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.26,No,106.816666,-6.2,3619.2000000000003
+1471,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.090000000000003,Yes,106.816666,-6.2,5545.8
+4659,0,58,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,123.89,No,106.816666,-6.2,8398.0
+2226,0,35,Jakarta,Mid End,No,Yes,No,Yes,Yes,Yes,Pulsa,98.865,No,106.816666,-6.2,7122.7
+6868,0,43,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,107.60981,-6.914744,6332.3
+6598,0,41,Jakarta,Mid End,No,No,No,Yes,No,No,Debit,65.065,No,106.816666,-6.2,2804.1
+4652,0,47,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.090000000000003,No,106.816666,-6.2,7577.7
+6688,1,33,Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,130.0,No,107.60981,-6.914744,6035.900000000001
+4072,0,67,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.650000000000002,No,106.816666,-6.2,5740.8
+2849,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.22,No,106.816666,-6.2,7017.400000000001
+3169,0,50,Jakarta,Mid End,No,No,Yes,No,No,No,Debit,71.37,No,106.816666,-6.2,5618.6
+4570,0,49,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,64.74,No,106.816666,-6.2,5597.8
+1848,1,4,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.655,Yes,106.816666,-6.2,4708.6
+5966,0,61,Jakarta,High End,No,Yes,Yes,Yes,No,Yes,Credit,122.39500000000001,No,106.816666,-6.2,6247.8
+3278,0,7,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.845,No,107.60981,-6.914744,3736.2000000000003
+268,1,14,Bandung,High End,No,No,No,No,Yes,Yes,Credit,117.58500000000001,Yes,107.60981,-6.914744,6210.1
+6677,0,26,Bandung,Mid End,No,Yes,No,Yes,Yes,Yes,Pulsa,94.965,No,107.60981,-6.914744,3578.9
+6154,1,35,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.715,No,106.816666,-6.2,7634.900000000001
+5592,0,54,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,128.82999999999998,No,106.816666,-6.2,5353.400000000001
+1853,1,8,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124.34500000000001,Yes,106.816666,-6.2,6935.5
+464,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,93.14500000000001,Yes,106.816666,-6.2,3090.1
+5613,0,67,Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Debit,130.32500000000002,No,106.816666,-6.2,7264.400000000001
+3454,0,24,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,106.816666,-6.2,3430.7000000000003
+6337,0,64,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.37,No,106.816666,-6.2,6549.400000000001
+1358,1,34,Bandung,High End,No,Yes,No,No,No,No,Digital Wallet,103.47999999999999,Yes,107.60981,-6.914744,5174.0
+2928,0,8,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.869999999999997,No,106.816666,-6.2,4097.6
+6756,0,6,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.26,No,106.816666,-6.2,6537.7
+1808,1,13,Bandung,High End,No,No,No,Yes,Yes,Yes,Digital Wallet,128.70000000000002,Yes,107.60981,-6.914744,4540.900000000001
+1923,0,62,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.525000000000002,No,106.816666,-6.2,5777.2
+135,1,34,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130.065,Yes,106.816666,-6.2,3338.4
+1933,1,9,Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,129.09,No,106.816666,-6.2,4602.0
+5375,0,22,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.39,No,106.816666,-6.2,3598.4
+1378,0,40,Jakarta,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,71.825,Yes,106.816666,-6.2,3653.0
+493,0,35,Bandung,High End,Yes,Yes,No,Yes,Yes,No,Debit,130.65,Yes,107.60981,-6.914744,6168.5
+6776,0,7,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,30.55,No,106.816666,-6.2,7160.400000000001
+4942,0,32,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.740000000000002,No,106.816666,-6.2,4986.8
+2029,0,61,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,107.60981,-6.914744,7034.3
+6003,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.975,No,106.816666,-6.2,5168.8
+2791,0,56,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,134.16,No,106.816666,-6.2,5894.2
+1253,1,65,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138.125,Yes,106.816666,-6.2,7754.5
+3350,0,28,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,64.87,No,106.816666,-6.2,6825.0
+2938,0,18,Jakarta,Mid End,Yes,No,Yes,No,Yes,No,Digital Wallet,90.35000000000001,No,106.816666,-6.2,5805.8
+4407,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,117.715,No,106.816666,-6.2,7811.7
+2233,0,72,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Debit,115.17999999999999,No,106.816666,-6.2,7594.6
+1756,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,99.385,Yes,106.816666,-6.2,4891.900000000001
+1070,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,Yes,106.816666,-6.2,6306.3
+5831,0,34,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.455000000000002,No,106.816666,-6.2,3723.2000000000003
+809,1,8,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,113.165,Yes,106.816666,-6.2,3308.5
+1029,1,47,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138.32000000000002,Yes,106.816666,-6.2,6245.2
+5290,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.265,No,106.816666,-6.2,6181.5
+2204,0,52,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.565000000000005,No,106.816666,-6.2,7376.2
+1625,0,3,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,Yes,106.816666,-6.2,2805.4
+6781,0,60,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,49.010000000000005,No,106.816666,-6.2,6692.400000000001
+978,1,3,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125.58,Yes,106.816666,-6.2,4238.0
+315,1,19,Jakarta,High End,No,No,No,No,No,Yes,Debit,111.8,Yes,106.816666,-6.2,6314.1
+4030,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.87,No,106.816666,-6.2,4365.400000000001
+1044,1,6,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136.89000000000001,Yes,106.816666,-6.2,5411.900000000001
+1885,0,49,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Credit,77.48,No,106.816666,-6.2,6481.8
+1475,0,22,Jakarta,High End,No,No,No,Yes,Yes,No,Debit,117.65,Yes,106.816666,-6.2,6518.2
+5305,0,42,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,24.765,No,106.816666,-6.2,6618.3
+2666,1,46,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128.505,No,106.816666,-6.2,3433.3
+3661,0,68,Jakarta,Mid End,No,No,Yes,No,No,Yes,Debit,51.87,No,106.816666,-6.2,8151.0
+6402,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.650000000000002,No,106.816666,-6.2,5831.8
+2438,1,0,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.325,No,106.816666,-6.2,7155.2
+1129,0,35,Bandung,Mid End,Yes,No,Yes,Yes,Yes,No,Pulsa,93.925,Yes,107.60981,-6.914744,7667.400000000001
+2540,0,2,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.35,No,107.60981,-6.914744,6286.8
+5869,0,68,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,81.44500000000001,No,106.816666,-6.2,6779.5
+2557,1,16,Bandung,High End,No,No,No,No,No,No,Pulsa,98.02000000000001,No,107.60981,-6.914744,7061.6
+4646,0,72,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,144.17000000000002,No,106.816666,-6.2,6419.400000000001
+6789,0,37,Jakarta,High End,No,No,Yes,Yes,Yes,No,Digital Wallet,122.59,No,106.816666,-6.2,3399.5
+2371,0,53,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33.215,No,106.816666,-6.2,7532.2
+6365,1,40,Jakarta,High End,No,No,No,No,No,Yes,Debit,109.005,No,106.816666,-6.2,5582.2
+4354,1,46,Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,122.39500000000001,No,106.816666,-6.2,5101.2
+731,1,3,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131.235,Yes,106.816666,-6.2,6956.3
+1339,1,1,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,97.89,Yes,106.816666,-6.2,2828.8
+244,0,7,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.025000000000002,Yes,107.60981,-6.914744,5835.7
+1336,0,6,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,39.65,Yes,106.816666,-6.2,6067.1
+2406,0,46,Jakarta,High End,Yes,No,No,No,Yes,No,Credit,115.89500000000001,No,106.816666,-6.2,7270.900000000001
+958,0,54,Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,91.19500000000001,Yes,106.816666,-6.2,5974.8
+1447,1,15,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103.22000000000001,Yes,106.816666,-6.2,4707.3
+446,1,3,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110.89,Yes,106.816666,-6.2,6414.2
+2264,0,70,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.065,No,106.816666,-6.2,5830.5
+3710,1,39,Jakarta,High End,No,No,No,Yes,Yes,Yes,Digital Wallet,130.715,No,106.816666,-6.2,4061.2000000000003
+2214,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.0,No,106.816666,-6.2,6269.900000000001
+2189,0,18,Jakarta,High End,No,No,No,No,No,No,Debit,98.28,No,106.816666,-6.2,5239.0
+3548,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.63,No,106.816666,-6.2,7476.3
+3626,0,47,Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,71.89,No,106.816666,-6.2,7138.3
+5196,0,22,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.869999999999997,No,106.816666,-6.2,7354.1
+4074,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,116.87,No,106.816666,-6.2,5777.2
+3222,1,8,Bandung,High End,No,No,No,No,No,No,Pulsa,97.30499999999999,No,107.60981,-6.914744,7168.2
+4358,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.869999999999997,No,106.816666,-6.2,7525.7
+5451,0,53,Bandung,High End,No,Yes,Yes,Yes,No,Yes,Credit,122.78500000000001,No,107.60981,-6.914744,7087.6
+4543,0,37,Jakarta,High End,No,No,No,No,No,No,Debit,93.925,No,106.816666,-6.2,5357.3
+5896,0,64,Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Digital Wallet,91.19500000000001,No,106.816666,-6.2,6548.1
+5071,1,5,Bandung,Mid End,No,No,No,Yes,No,No,Debit,63.245,No,107.60981,-6.914744,4299.1
+5156,1,60,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136.11,No,106.816666,-6.2,8041.8
+2797,1,2,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,65.39,No,106.816666,-6.2,7631.0
+6477,0,25,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Pulsa,70.46000000000001,No,106.816666,-6.2,5795.400000000001
+1986,0,6,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.61,No,106.816666,-6.2,5580.900000000001
+4468,0,60,Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,143.78,No,107.60981,-6.914744,7482.8
+1018,1,30,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130.26000000000002,Yes,106.816666,-6.2,4677.400000000001
+4112,0,67,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,No,Debit,64.155,No,106.816666,-6.2,7676.5
+3951,0,53,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.265,No,106.816666,-6.2,6324.5
+5,0,10,Jakarta,Mid End,No,No,Yes,Yes,No,No,Credit,71.76,Yes,106.816666,-6.2,7702.5
+194,1,1,Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,67.86,Yes,106.816666,-6.2,5379.400000000001
+1743,0,55,Bandung,Mid End,No,No,Yes,Yes,Yes,Yes,Debit,70.91499999999999,Yes,107.60981,-6.914744,7853.3
+4807,0,70,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Digital Wallet,110.11000000000001,No,106.816666,-6.2,5434.0
+2653,0,34,Bandung,Mid End,No,No,No,Yes,No,No,Debit,65.26,No,107.60981,-6.914744,5657.6
+6545,0,68,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,143.32500000000002,No,106.816666,-6.2,7152.6
+3837,0,59,Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Credit,141.895,No,107.60981,-6.914744,6741.8
+6551,1,9,Jakarta,High End,Yes,No,No,No,No,No,Pulsa,97.30499999999999,No,106.816666,-6.2,7501.0
+1514,1,6,Jakarta,High End,No,No,No,No,Yes,No,Credit,104.65,Yes,106.816666,-6.2,2835.3
+6420,1,50,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,135.13500000000002,No,106.816666,-6.2,5671.900000000001
+1182,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,120.185,Yes,106.816666,-6.2,7406.1
+3869,0,41,Bandung,Mid End,No,Yes,Yes,No,Yes,Yes,Pulsa,70.135,No,107.60981,-6.914744,5096.0
+4577,1,4,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,66.03999999999999,No,106.816666,-6.2,5877.3
+6527,0,47,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Pulsa,52.39,No,106.816666,-6.2,6552.0
+3838,0,62,Bandung,High End,Yes,Yes,No,No,Yes,No,Credit,123.435,No,107.60981,-6.914744,5540.6
+4616,0,18,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.585,No,106.816666,-6.2,2661.1
+1106,1,3,Bandung,High End,No,No,No,No,No,No,Pulsa,98.60499999999999,Yes,107.60981,-6.914744,5280.6
+6027,0,65,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.63,No,106.816666,-6.2,7083.7
+220,1,59,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111.215,Yes,106.816666,-6.2,8195.2
+5355,0,60,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,No,Credit,91.19500000000001,No,106.816666,-6.2,5538.0
+4134,0,10,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.715000000000003,No,106.816666,-6.2,4673.5
+3201,0,7,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Digital Wallet,50.114999999999995,No,106.816666,-6.2,4348.5
+3853,0,28,Bandung,High End,No,No,Yes,Yes,No,Yes,Pulsa,118.3,No,107.60981,-6.914744,3182.4
+6060,0,29,Jakarta,High End,No,No,No,Yes,No,No,Pulsa,103.09,No,106.816666,-6.2,4123.6
+5719,1,0,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.61,No,107.60981,-6.914744,6357.0
+4593,0,37,Jakarta,Mid End,Yes,No,No,No,Yes,No,Debit,84.04500000000002,No,106.816666,-6.2,6831.5
+2723,0,45,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.045,No,106.816666,-6.2,3955.9
+5975,0,61,Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Pulsa,103.74,No,106.816666,-6.2,8361.6
+6923,0,64,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.285,No,107.60981,-6.914744,7316.400000000001
+6665,0,63,Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,118.755,No,107.60981,-6.914744,5865.6
+26,1,37,Jakarta,High End,No,No,No,No,No,No,Pulsa,99.45,Yes,106.816666,-6.2,3630.9
+3723,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.590000000000003,No,106.816666,-6.2,5716.1
+3500,0,66,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,116.87,No,106.816666,-6.2,5306.6
+719,1,1,Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,124.34500000000001,Yes,106.816666,-6.2,4514.900000000001
+2684,1,9,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103.675,No,106.816666,-6.2,6050.2
+2149,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32.955000000000005,No,106.816666,-6.2,5450.900000000001
+370,1,4,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,129.74,Yes,106.816666,-6.2,2948.4
+1676,0,38,Jakarta,High End,No,No,No,No,No,No,Debit,97.435,Yes,106.816666,-6.2,6714.5
+6909,0,44,Bandung,Mid End,No,Yes,Yes,Yes,No,No,Digital Wallet,80.47,No,107.60981,-6.914744,5704.400000000001
+6015,0,22,Jakarta,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,71.11,No,106.816666,-6.2,7438.6
+1553,0,53,Bandung,High End,Yes,No,Yes,No,Yes,Yes,Credit,139.035,Yes,107.60981,-6.914744,7215.0
+2788,1,23,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117.58500000000001,No,106.816666,-6.2,6853.6
+6301,0,20,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,24.57,No,107.60981,-6.914744,5560.1
+6232,0,51,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.175000000000004,No,107.60981,-6.914744,6604.0
+6229,0,62,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.845,No,107.60981,-6.914744,8323.9
+5236,0,7,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.635,No,106.816666,-6.2,5326.1
+3339,1,17,Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,108.615,No,106.816666,-6.2,7233.2
+3717,0,41,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,No,Digital Wallet,91.26,No,106.816666,-6.2,6974.5
+6738,1,7,Jakarta,High End,No,Yes,No,No,Yes,Yes,Digital Wallet,122.265,No,106.816666,-6.2,7208.5
+2934,1,1,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,65.065,No,106.816666,-6.2,7179.900000000001
+4693,0,64,Jakarta,Mid End,No,No,Yes,Yes,No,No,Debit,75.855,No,106.816666,-6.2,6930.3
+1481,1,3,Jakarta,High End,No,No,No,No,No,No,Pulsa,98.15,Yes,106.816666,-6.2,7732.400000000001
+791,1,50,Jakarta,High End,No,No,No,No,No,No,Pulsa,92.365,Yes,106.816666,-6.2,7469.8
+2715,0,18,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,73.84,No,106.816666,-6.2,7225.400000000001
+115,1,13,Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,72.735,Yes,106.816666,-6.2,5847.400000000001
+4989,0,69,Bandung,Mid End,Yes,Yes,No,Yes,Yes,Yes,Debit,104.84500000000001,No,107.60981,-6.914744,6003.400000000001
+4481,1,1,Bandung,High End,No,Yes,No,No,No,No,Digital Wallet,102.89500000000001,No,107.60981,-6.914744,3564.6
+6613,1,4,Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,117.84500000000001,No,106.816666,-6.2,4626.7
+810,1,1,Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,69.55,Yes,106.816666,-6.2,6622.2
+4482,0,25,Bandung,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,69.745,No,107.60981,-6.914744,7610.2
+6904,0,18,Bandung,Mid End,No,No,No,No,Yes,No,Digital Wallet,72.735,No,107.60981,-6.914744,2645.5
+6761,0,48,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,30.615000000000002,No,106.816666,-6.2,6524.7
+3908,0,26,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.845,No,106.816666,-6.2,2852.2000000000003
+964,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,89.83,Yes,106.816666,-6.2,7533.5
+5513,0,4,Bandung,Mid End,Yes,Yes,Yes,No,Yes,Yes,Digital Wallet,74.36,No,107.60981,-6.914744,3147.3
+4318,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.39,No,106.816666,-6.2,5551.0
+1314,1,11,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.655,Yes,106.816666,-6.2,6597.5
+902,0,4,Jakarta,Mid End,No,No,No,Yes,No,Yes,Credit,79.885,Yes,106.816666,-6.2,2770.3
+164,0,8,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.544999999999998,Yes,106.816666,-6.2,7061.6
+3712,1,6,Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,117.97500000000001,No,106.816666,-6.2,5586.1
+4979,0,72,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,119.60000000000001,No,107.60981,-6.914744,5460.0
+6075,0,27,Jakarta,Mid End,Yes,Yes,No,No,No,No,Debit,68.705,No,106.816666,-6.2,3694.6
+753,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,92.3,Yes,106.816666,-6.2,6948.5
+4155,0,17,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.195,No,106.816666,-6.2,6045.0
+3895,0,66,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,89.375,No,106.816666,-6.2,7090.2
+5399,0,53,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.35,No,106.816666,-6.2,7312.5
+7028,0,44,Jakarta,High End,Yes,No,Yes,No,No,No,Credit,110.24,No,106.816666,-6.2,3601.0
+4073,0,52,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,27.105000000000004,No,106.816666,-6.2,6351.8
+4490,0,70,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,117.065,No,107.60981,-6.914744,6065.8
+5021,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,33.475,No,107.60981,-6.914744,3339.7000000000003
+1003,0,61,Jakarta,High End,No,Yes,No,Yes,Yes,No,Pulsa,122.33,Yes,106.816666,-6.2,8183.5
+857,1,19,Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,131.235,Yes,107.60981,-6.914744,5293.6
+1995,0,11,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.78,No,107.60981,-6.914744,5261.1
+3991,1,26,Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,111.47500000000001,No,106.816666,-6.2,4131.400000000001
+3010,0,60,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.805000000000003,No,107.60981,-6.914744,8076.900000000001
+1570,1,1,Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,110.30499999999999,Yes,107.60981,-6.914744,4011.8
+6572,1,26,Jakarta,High End,Yes,Yes,No,No,Yes,No,Credit,120.12,No,106.816666,-6.2,7099.3
+4920,1,24,Jakarta,High End,No,Yes,No,No,No,No,Pulsa,104.65,No,106.816666,-6.2,5748.6
+6938,1,22,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Digital Wallet,130.065,No,107.60981,-6.914744,4256.2
+6992,1,51,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128.505,No,106.816666,-6.2,7844.2
+5860,0,61,Jakarta,High End,No,Yes,No,Yes,No,No,Debit,111.215,No,106.816666,-6.2,6298.5
+5604,0,44,Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Debit,70.59,No,106.816666,-6.2,4188.6
+2568,1,0,Bandung,Mid End,Yes,Yes,Yes,No,Yes,Yes,Digital Wallet,105.10499999999999,No,107.60981,-6.914744,2662.4
+5644,1,5,Bandung,High End,No,No,No,Yes,No,No,Digital Wallet,98.34500000000001,No,107.60981,-6.914744,2984.8
+1028,1,1,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102.44,Yes,106.816666,-6.2,6597.5
+4373,0,26,Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,80.015,No,106.816666,-6.2,6702.8
+3828,1,15,Bandung,High End,Yes,No,Yes,No,No,No,Credit,109.655,No,107.60981,-6.914744,4308.2
+988,1,4,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104.455,Yes,106.816666,-6.2,5417.1
+5364,1,12,Jakarta,High End,Yes,Yes,Yes,No,No,No,Pulsa,109.97999999999999,No,106.816666,-6.2,3248.7000000000003
+1674,1,1,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,64.87,Yes,106.816666,-6.2,4046.9
+5111,0,22,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,75.33500000000001,No,106.816666,-6.2,6546.8
+4025,0,49,Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Credit,64.545,No,106.816666,-6.2,5567.900000000001
+5986,0,13,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,106.816666,-6.2,2620.8
+3151,0,66,Jakarta,High End,No,Yes,Yes,Yes,No,No,Debit,117.715,No,106.816666,-6.2,6445.400000000001
+2515,0,62,Jakarta,Mid End,No,No,No,Yes,Yes,No,Debit,50.7,No,106.816666,-6.2,6483.1
+2393,0,66,Jakarta,Mid End,No,No,Yes,No,Yes,No,Debit,82.28999999999999,No,106.816666,-6.2,5441.8
+1027,1,3,Jakarta,Mid End,No,No,No,No,Yes,No,Credit,45.760000000000005,Yes,106.816666,-6.2,7085.0
+2823,0,63,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,89.44,No,106.816666,-6.2,6606.6
+3770,0,15,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.155,No,107.60981,-6.914744,3564.6
+3924,0,43,Jakarta,High End,Yes,Yes,No,No,No,Yes,Pulsa,122.33,No,106.816666,-6.2,5709.6
+3181,0,65,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,141.76500000000001,No,106.816666,-6.2,7399.6
+713,1,2,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111.41000000000001,Yes,106.816666,-6.2,2843.1
+4862,0,14,Jakarta,Mid End,Yes,No,No,No,No,No,Debit,65.13000000000001,No,106.816666,-6.2,3030.3
+3038,0,68,Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Debit,141.76500000000001,No,107.60981,-6.914744,8308.300000000001
+5959,0,20,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.480000000000004,No,106.816666,-6.2,7681.7
+3588,0,57,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,84.76,No,106.816666,-6.2,5838.3
+2171,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.740000000000002,No,106.816666,-6.2,6978.400000000001
+803,1,6,Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,109.72000000000001,Yes,106.816666,-6.2,5900.7
+1994,0,53,Bandung,Mid End,No,Yes,Yes,Yes,No,Yes,Debit,96.07000000000001,No,107.60981,-6.914744,7337.2
+1011,0,57,Jakarta,Mid End,Yes,No,No,No,Yes,Yes,Debit,91.13,Yes,106.816666,-6.2,6069.7
+961,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,Yes,106.816666,-6.2,6412.900000000001
+4643,1,15,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,63.7,No,106.816666,-6.2,3376.1
+1778,0,40,Jakarta,High End,Yes,Yes,No,No,No,No,Credit,102.96000000000001,Yes,106.816666,-6.2,4169.1
+4010,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Debit,70.135,No,106.816666,-6.2,5322.2
+6819,1,13,Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,58.89,No,106.816666,-6.2,5353.400000000001
+5016,0,72,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,118.495,No,107.60981,-6.914744,5604.3
+4415,0,52,Jakarta,High End,No,Yes,Yes,No,Yes,No,Credit,124.41000000000001,No,106.816666,-6.2,5739.5
+6920,0,63,Bandung,High End,Yes,No,Yes,No,No,No,Credit,105.495,No,107.60981,-6.914744,6882.2
+4655,0,29,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.830000000000002,No,106.816666,-6.2,7644.0
+3800,1,29,Bandung,High End,No,No,Yes,No,Yes,Yes,Debit,130.715,No,107.60981,-6.914744,6301.1
+3256,0,3,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.975,No,107.60981,-6.914744,3127.8
+4088,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.78,No,106.816666,-6.2,2958.8
+6416,1,61,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129.87,No,106.816666,-6.2,7333.3
+4572,0,10,Jakarta,Mid End,No,No,Yes,Yes,No,No,Pulsa,70.525,No,106.816666,-6.2,2928.9
+5441,0,67,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,142.61,No,106.816666,-6.2,5222.1
+2683,0,42,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,106.816666,-6.2,6880.900000000001
+1510,1,1,Jakarta,High End,No,Yes,No,No,No,No,Pulsa,98.41000000000001,Yes,106.816666,-6.2,6349.2
+3602,1,5,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,109.2,No,106.816666,-6.2,5792.8
+6019,0,20,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.35,No,106.816666,-6.2,6110.0
+655,1,1,Jakarta,High End,No,No,No,No,No,No,Debit,90.35000000000001,Yes,106.816666,-6.2,4254.900000000001
+5341,1,6,Jakarta,High End,Yes,Yes,No,No,No,No,Pulsa,102.635,No,106.816666,-6.2,5320.900000000001
+12,1,34,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138.255,Yes,106.816666,-6.2,3823.3
+3329,0,21,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.480000000000004,No,106.816666,-6.2,5930.6
+2324,0,46,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,141.245,No,106.816666,-6.2,5473.0
+3562,1,34,Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,127.01,No,106.816666,-6.2,7525.7
+6859,0,29,Bandung,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,58.5,No,107.60981,-6.914744,4277.0
+5512,0,27,Bandung,High End,Yes,Yes,No,No,No,No,Credit,104.84500000000001,No,107.60981,-6.914744,7612.8
+2504,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,116.74,No,106.816666,-6.2,7490.6
+4614,0,42,Jakarta,Mid End,Yes,No,Yes,No,No,No,Credit,70.91499999999999,No,106.816666,-6.2,7003.1
+29,1,27,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,101.465,Yes,106.816666,-6.2,6029.400000000001
+5130,0,66,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Credit,85.92999999999999,No,106.816666,-6.2,7712.900000000001
+1212,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,98.215,Yes,106.816666,-6.2,5616.0
+926,1,32,Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,125.06,Yes,107.60981,-6.914744,4687.8
+783,1,14,Jakarta,High End,No,No,No,No,No,No,Pulsa,97.435,Yes,106.816666,-6.2,2697.5
+4747,1,19,Jakarta,High End,No,No,Yes,Yes,Yes,No,Digital Wallet,116.935,No,106.816666,-6.2,4422.6
+5465,0,48,Bandung,Mid End,Yes,Yes,Yes,No,No,No,Debit,83.72000000000001,No,107.60981,-6.914744,3308.5
+1016,1,4,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,96.07000000000001,Yes,106.816666,-6.2,5822.7
+2066,0,57,Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,116.80499999999999,No,107.60981,-6.914744,5757.7
+5466,0,58,Bandung,Mid End,No,Yes,No,Yes,Yes,Yes,Credit,97.76,No,107.60981,-6.914744,5926.7
+6941,0,56,Bandung,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,88.98500000000001,No,107.60981,-6.914744,5678.400000000001
+2012,0,69,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.675,No,107.60981,-6.914744,6922.5
+6444,0,10,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,69.81,No,106.816666,-6.2,7372.3
+4313,1,3,Jakarta,High End,No,Yes,No,Yes,No,No,Pulsa,104.0,No,106.816666,-6.2,5543.2
+3198,0,35,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,34.06,No,106.816666,-6.2,5744.7
+883,0,11,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.025000000000002,Yes,106.816666,-6.2,7329.400000000001
+2987,1,56,Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,130.715,No,106.816666,-6.2,6301.1
+5149,0,51,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.435,No,106.816666,-6.2,7099.3
+1286,0,36,Bandung,High End,Yes,No,No,No,Yes,No,Pulsa,118.10499999999999,Yes,107.60981,-6.914744,7399.6
+4266,0,5,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.585,No,107.60981,-6.914744,4358.900000000001
+4083,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.52,No,106.816666,-6.2,5902.0
+574,1,7,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96.72000000000001,Yes,106.816666,-6.2,6459.7
+6744,0,69,Jakarta,Mid End,Yes,Yes,No,No,No,No,Credit,69.745,No,106.816666,-6.2,7919.6
+1073,0,22,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,No,Debit,87.75,Yes,106.816666,-6.2,4391.400000000001
+6760,0,63,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31.46,No,106.816666,-6.2,6432.400000000001
+4607,0,55,Jakarta,Mid End,Yes,Yes,No,Yes,No,Yes,Debit,98.47500000000001,No,106.816666,-6.2,5835.7
+4783,1,3,Jakarta,Mid End,No,No,Yes,No,Yes,No,Pulsa,74.815,No,106.816666,-6.2,5328.7
+2542,0,67,Bandung,Mid End,Yes,Yes,Yes,No,Yes,Yes,Credit,105.755,No,107.60981,-6.914744,5484.7
+1279,1,3,Bandung,Mid End,No,No,No,No,No,No,Pulsa,32.825,Yes,107.60981,-6.914744,2714.4
+1967,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,106.816666,-6.2,3229.2000000000003
+977,0,16,Jakarta,High End,No,No,No,Yes,No,Yes,Credit,115.765,Yes,106.816666,-6.2,7738.900000000001
+4956,0,62,Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,135.26500000000001,No,107.60981,-6.914744,7670.0
+5723,0,8,Bandung,Mid End,Yes,Yes,Yes,No,No,No,Debit,85.15,No,107.60981,-6.914744,3942.9
+4599,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,106.816666,-6.2,4477.2
+1390,0,6,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.35,Yes,106.816666,-6.2,7252.7
+4827,0,28,Jakarta,Mid End,Yes,No,Yes,No,No,No,Digital Wallet,76.7,No,106.816666,-6.2,6358.3
+6648,0,26,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.22,No,106.816666,-6.2,5982.6
+3505,1,38,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,131.495,No,106.816666,-6.2,4859.400000000001
+5862,1,18,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,65.39,No,106.816666,-6.2,7640.1
+773,1,3,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,40.300000000000004,Yes,106.816666,-6.2,6658.6
+6012,1,3,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32.5,No,106.816666,-6.2,3549.0
+6705,0,70,Bandung,Mid End,No,Yes,Yes,Yes,Yes,No,Debit,94.83500000000001,No,107.60981,-6.914744,8405.800000000001
+6600,0,67,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,90.155,No,106.816666,-6.2,7265.7
+4800,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31.655000000000005,No,106.816666,-6.2,5401.5
+3265,0,16,Bandung,Mid End,Yes,Yes,No,No,No,Yes,Pulsa,89.83,No,107.60981,-6.914744,6723.6
+5782,0,10,Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Pulsa,85.15,No,106.816666,-6.2,4078.1000000000004
+98,1,1,Jakarta,High End,No,Yes,No,No,No,Yes,Credit,118.10499999999999,Yes,106.816666,-6.2,4451.2
+4254,0,12,Bandung,Mid End,No,No,No,No,Yes,No,Digital Wallet,73.19,No,107.60981,-6.914744,2661.1
+1618,0,5,Jakarta,Mid End,Yes,No,No,Yes,No,No,Credit,70.00500000000001,Yes,106.816666,-6.2,7065.5
+1340,0,40,Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Credit,128.96,Yes,106.816666,-6.2,6627.400000000001
+2075,0,21,Bandung,Mid End,Yes,Yes,No,No,No,Yes,Debit,84.435,No,107.60981,-6.914744,5985.2
+4767,0,9,Jakarta,Mid End,Yes,No,Yes,Yes,No,Yes,Debit,88.72500000000001,No,106.816666,-6.2,5675.8
+5578,0,7,Jakarta,Mid End,Yes,No,No,No,No,No,Debit,65.39,No,106.816666,-6.2,3311.1
+3764,0,38,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,107.60981,-6.914744,5900.7
+1698,1,1,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,65.65,Yes,106.816666,-6.2,2700.1
+3679,1,7,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,97.37,No,106.816666,-6.2,6935.5
+1272,1,2,Bandung,High End,No,No,No,No,No,No,Pulsa,92.23500000000001,Yes,107.60981,-6.914744,7007.0
+4380,0,56,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.415000000000003,No,106.816666,-6.2,7493.2
+5081,1,6,Bandung,Mid End,No,No,No,No,No,No,Pulsa,65.455,No,107.60981,-6.914744,4474.6
+3177,0,63,Jakarta,Mid End,No,No,Yes,No,No,Yes,Credit,76.115,No,106.816666,-6.2,8205.6
+3725,0,64,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,143.65,No,106.816666,-6.2,7433.400000000001
+4780,0,29,Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,59.67,No,106.816666,-6.2,6596.2
+2408,1,32,Jakarta,High End,No,No,No,No,No,Yes,Debit,111.34500000000001,No,106.816666,-6.2,3097.9
+4341,1,2,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109.265,No,106.816666,-6.2,6550.7
+303,0,60,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,122.72000000000001,Yes,106.816666,-6.2,6487.0
+5289,0,22,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Digital Wallet,84.565,No,106.816666,-6.2,6121.7
+3123,0,11,Jakarta,Mid End,No,Yes,No,Yes,No,No,Pulsa,46.345,No,106.816666,-6.2,6481.8
+3685,0,57,Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,117.84500000000001,No,106.816666,-6.2,7326.8
+875,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57.395,Yes,106.816666,-6.2,6204.900000000001
+5666,0,62,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,24.96,No,107.60981,-6.914744,6418.1
+533,0,47,Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,128.375,Yes,106.816666,-6.2,6008.6
+2069,0,61,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Digital Wallet,114.53,No,107.60981,-6.914744,6697.6
+2763,1,3,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.19500000000001,No,106.816666,-6.2,2896.4
+3910,0,64,Jakarta,High End,Yes,Yes,No,No,No,No,Pulsa,105.365,No,106.816666,-6.2,6718.400000000001
+4683,1,6,Jakarta,High End,No,Yes,Yes,No,Yes,No,Digital Wallet,122.265,No,106.816666,-6.2,4007.9
+3756,0,56,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,107.60981,-6.914744,6723.6
+5646,0,27,Bandung,Mid End,No,Yes,No,No,No,No,Digital Wallet,64.805,No,107.60981,-6.914744,7254.0
+5204,0,46,Jakarta,Mid End,Yes,Yes,No,No,Yes,No,Pulsa,59.214999999999996,No,106.816666,-6.2,7234.5
+477,1,1,Bandung,Mid End,No,No,No,No,No,No,Pulsa,58.63,Yes,107.60981,-6.914744,5848.7
+4604,0,11,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.52,No,106.816666,-6.2,7016.1
+2691,1,32,Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,128.505,No,106.816666,-6.2,5175.3
+807,1,4,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,101.205,Yes,106.816666,-6.2,2782.0
+1549,0,24,Bandung,Mid End,Yes,No,No,No,No,No,Debit,72.345,Yes,107.60981,-6.914744,5363.8
+6282,0,35,Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,141.63500000000002,No,107.60981,-6.914744,7673.900000000001
+923,0,46,Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Debit,136.76000000000002,Yes,107.60981,-6.914744,4318.6
+1213,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.0,Yes,106.816666,-6.2,3230.5
+5631,0,72,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,143.19500000000002,No,106.816666,-6.2,5847.400000000001
+7027,1,63,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134.55,No,106.816666,-6.2,6743.1
+1148,1,21,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,112.45,Yes,106.816666,-6.2,2646.8
+7002,0,37,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Pulsa,52.260000000000005,No,106.816666,-6.2,3000.4
+5876,0,55,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Digital Wallet,131.17000000000002,No,106.816666,-6.2,6631.3
+6725,0,14,Bandung,Mid End,No,No,No,Yes,Yes,No,Credit,86.58,No,107.60981,-6.914744,4570.8
+6166,0,53,Bandung,Mid End,Yes,No,No,Yes,No,Yes,Pulsa,93.405,No,107.60981,-6.914744,6373.900000000001
+3474,0,50,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Credit,109.39500000000001,No,106.816666,-6.2,6012.5
+3071,1,38,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,133.38,No,107.60981,-6.914744,7109.7
+1161,1,30,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129.61,Yes,106.816666,-6.2,4612.400000000001
+5926,0,28,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Pulsa,77.87,No,106.816666,-6.2,5370.3
+1555,0,46,Bandung,Mid End,No,Yes,Yes,Yes,Yes,Yes,Debit,77.87,Yes,107.60981,-6.914744,5214.3
+7012,0,67,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.715000000000003,No,106.816666,-6.2,7100.6
+489,1,1,Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59.73500000000001,Yes,107.60981,-6.914744,6354.400000000001
+4888,0,50,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.740000000000002,No,106.816666,-6.2,7688.2
+5838,1,56,Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,127.4,No,106.816666,-6.2,5999.5
+6361,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,7690.8
+5266,0,3,Jakarta,Mid End,Yes,No,No,Yes,No,No,Digital Wallet,45.63,No,106.816666,-6.2,4693.0
+3948,0,72,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,142.415,No,106.816666,-6.2,8387.6
+757,0,48,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,78.455,Yes,106.816666,-6.2,3485.3
+5376,0,9,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Digital Wallet,51.415,No,106.816666,-6.2,4881.5
+4201,0,19,Jakarta,Mid End,No,No,No,No,Yes,Yes,Digital Wallet,90.47999999999999,No,106.816666,-6.2,4353.7
+4147,0,46,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,105.3,No,106.816666,-6.2,5564.0
+2288,0,56,Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,139.425,No,106.816666,-6.2,7540.0
+2394,1,35,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,108.09500000000001,No,106.816666,-6.2,3031.6
+6130,0,25,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.740000000000002,No,106.816666,-6.2,5037.5
+4130,1,21,Jakarta,High End,No,No,No,No,No,No,Pulsa,89.245,No,106.816666,-6.2,2607.8
+4564,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32.955000000000005,No,106.816666,-6.2,7471.1
+1538,1,1,Jakarta,High End,No,No,No,No,Yes,No,Debit,103.155,Yes,106.816666,-6.2,4539.6
+2825,0,62,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Debit,109.85000000000001,No,106.816666,-6.2,7105.8
+3734,0,53,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Digital Wallet,102.375,No,106.816666,-6.2,6567.6
+6550,1,2,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,97.37,No,106.816666,-6.2,2657.2000000000003
+3532,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,No,No,Debit,120.965,No,106.816666,-6.2,6484.400000000001
+4550,0,24,Jakarta,High End,No,No,Yes,No,No,No,Digital Wallet,103.54500000000002,No,106.816666,-6.2,4960.8
+6419,0,41,Jakarta,Mid End,No,No,Yes,No,No,No,Debit,72.41000000000001,No,106.816666,-6.2,7267.0
+1225,1,2,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,122.46000000000001,Yes,106.816666,-6.2,6888.7
+1198,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,88.075,Yes,106.816666,-6.2,2988.7000000000003
+1083,1,27,Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,124.215,Yes,106.816666,-6.2,3898.7000000000003
+893,1,53,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,132.47,Yes,106.816666,-6.2,7649.2
+589,0,34,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,83.72000000000001,Yes,106.816666,-6.2,6745.7
+6213,1,1,Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,110.5,No,107.60981,-6.914744,7480.2
+3688,0,48,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,106.816666,-6.2,7099.3
+1859,1,3,Jakarta,High End,No,No,No,No,No,No,Credit,97.565,Yes,106.816666,-6.2,4618.900000000001
+3504,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,83.265,No,106.816666,-6.2,5686.2
+4069,0,24,Jakarta,High End,No,Yes,Yes,Yes,No,No,Pulsa,111.73500000000001,No,106.816666,-6.2,7047.3
+2253,1,5,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.065,No,106.816666,-6.2,2683.2000000000003
+1139,1,8,Bandung,High End,No,No,No,No,No,No,Pulsa,98.47500000000001,Yes,107.60981,-6.914744,5426.2
+6980,0,15,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.740000000000002,No,106.816666,-6.2,3485.3
+418,1,2,Bandung,High End,No,Yes,No,No,No,No,Pulsa,97.11000000000001,Yes,107.60981,-6.914744,3643.9
+3768,0,13,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.5,No,107.60981,-6.914744,6154.2
+428,0,17,Bandung,High End,Yes,No,Yes,No,No,No,Debit,110.955,Yes,107.60981,-6.914744,4171.7
+4059,0,24,Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,75.855,No,106.816666,-6.2,7056.400000000001
+6712,0,50,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.715000000000003,No,107.60981,-6.914744,6341.400000000001
+3930,0,57,Jakarta,Mid End,Yes,No,Yes,No,Yes,Yes,Debit,96.655,No,106.816666,-6.2,7212.400000000001
+1817,1,3,Bandung,Mid End,No,No,No,No,No,No,Pulsa,32.89,Yes,107.60981,-6.914744,4604.6
+4426,0,37,Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,118.495,No,106.816666,-6.2,4152.2
+6511,0,71,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33.28,No,106.816666,-6.2,6581.900000000001
+2392,0,72,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,86.45,No,106.816666,-6.2,5716.1
+5331,0,52,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33.28,No,106.816666,-6.2,7360.6
+6033,0,4,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.805000000000003,No,106.816666,-6.2,7693.400000000001
+4548,0,9,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,No,Digital Wallet,90.35000000000001,No,106.816666,-6.2,4716.400000000001
+6011,1,7,Jakarta,High End,No,No,No,No,No,No,Pulsa,97.30499999999999,No,106.816666,-6.2,2936.7000000000003
+6515,0,48,Jakarta,Mid End,Yes,Yes,Yes,No,No,Yes,Credit,91.13,No,106.816666,-6.2,7118.8
+5635,0,47,Jakarta,Mid End,No,Yes,No,No,Yes,No,Debit,76.18,No,106.816666,-6.2,3396.9
+4195,1,4,Jakarta,High End,No,Yes,No,No,No,No,Pulsa,94.575,No,106.816666,-6.2,5853.900000000001
+6976,0,47,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,134.81,No,106.816666,-6.2,5905.900000000001
+3918,0,24,Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,37.830000000000005,No,106.816666,-6.2,6026.8
+1164,1,1,Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,65.58500000000001,Yes,106.816666,-6.2,3647.8
+1685,1,1,Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Digital Wallet,58.045,Yes,106.816666,-6.2,4815.2
+6467,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.025000000000002,No,106.816666,-6.2,2668.9
+2154,1,48,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,140.53,No,106.816666,-6.2,7792.2
+3844,0,27,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.130000000000003,No,107.60981,-6.914744,4456.400000000001
+3939,0,60,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,77.805,No,106.816666,-6.2,5237.7
+5898,0,26,Jakarta,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,72.865,No,106.816666,-6.2,4002.7000000000003
+6302,0,51,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.480000000000004,No,107.60981,-6.914744,5491.2
+1671,1,4,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102.7,Yes,106.816666,-6.2,2710.5
+3187,0,26,Jakarta,Mid End,No,No,No,Yes,No,Yes,Pulsa,85.865,No,106.816666,-6.2,4192.5
+4630,0,41,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,No,Pulsa,138.45000000000002,No,106.816666,-6.2,5764.2
+3593,0,68,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,149.37,No,106.816666,-6.2,7516.6
+5939,0,45,Jakarta,Mid End,Yes,No,No,Yes,No,No,Debit,71.045,No,106.816666,-6.2,6607.900000000001
+837,0,22,Bandung,Mid End,No,Yes,No,No,Yes,Yes,Debit,90.35000000000001,Yes,107.60981,-6.914744,7698.6
+3997,1,12,Jakarta,High End,No,No,No,No,No,Yes,Debit,103.935,No,106.816666,-6.2,3858.4
+3466,1,1,Jakarta,Mid End,No,No,No,No,No,No,Credit,57.135000000000005,No,106.816666,-6.2,7389.2
+4845,1,7,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122.33,No,106.816666,-6.2,6836.7
+1325,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.26,Yes,106.816666,-6.2,3979.3
+1086,1,13,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,31.07,Yes,106.816666,-6.2,3857.1
+5317,0,51,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.585,No,106.816666,-6.2,7926.1
+5687,1,4,Bandung,Mid End,No,No,No,No,No,No,Pulsa,58.239999999999995,No,107.60981,-6.914744,2748.2000000000003
+4602,0,26,Jakarta,High End,No,No,Yes,Yes,No,No,Digital Wallet,109.59,No,106.816666,-6.2,7112.3
+3929,0,24,Jakarta,High End,No,No,Yes,No,Yes,No,Credit,115.635,No,106.816666,-6.2,7224.1
+6989,0,61,Jakarta,High End,Yes,Yes,Yes,Yes,No,No,Credit,122.46000000000001,No,106.816666,-6.2,6856.2
+3799,0,72,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,149.37,No,107.60981,-6.914744,5965.7
+5936,0,55,Jakarta,High End,Yes,No,Yes,No,No,No,Credit,109.525,No,106.816666,-6.2,7455.5
+1169,1,12,Jakarta,High End,Yes,No,Yes,No,No,No,Debit,106.21000000000001,Yes,106.816666,-6.2,3705.0
+2514,0,64,Jakarta,High End,Yes,No,Yes,No,No,Yes,Debit,121.42000000000002,No,106.816666,-6.2,8123.700000000001
+1130,1,37,Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,125.515,Yes,107.60981,-6.914744,5782.400000000001
+4677,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,115.31,No,106.816666,-6.2,7493.2
+3628,0,11,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.35,No,106.816666,-6.2,7572.5
+4741,0,52,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,141.82999999999998,No,106.816666,-6.2,5756.400000000001
+4371,0,58,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57.330000000000005,No,106.816666,-6.2,6552.0
+3950,1,4,Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,71.76,No,106.816666,-6.2,5254.6
+4738,0,38,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.39,No,106.816666,-6.2,6091.8
+2591,0,3,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.105000000000004,No,107.60981,-6.914744,7628.400000000001
+2951,0,62,Jakarta,High End,Yes,Yes,No,No,No,Yes,Debit,119.99,No,106.816666,-6.2,8408.4
+2643,0,8,Bandung,Mid End,Yes,No,No,Yes,No,No,Debit,70.525,No,107.60981,-6.914744,2908.1
+5242,0,16,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.675,No,106.816666,-6.2,4780.1
+2991,0,8,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,56.614999999999995,No,106.816666,-6.2,4245.8
+825,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.740000000000002,Yes,106.816666,-6.2,7280.0
+6605,0,52,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,No,Digital Wallet,65.26,No,106.816666,-6.2,7014.8
+5193,0,72,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,33.800000000000004,No,106.816666,-6.2,6986.2
+3369,1,16,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.54500000000002,No,106.816666,-6.2,7293.0
+5260,1,18,Jakarta,High End,No,No,Yes,No,Yes,No,Credit,116.47999999999999,No,106.816666,-6.2,2949.7000000000003
+1235,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.325,Yes,106.816666,-6.2,3846.7000000000003
+3023,0,72,Bandung,Mid End,No,Yes,Yes,No,Yes,Yes,Debit,98.02000000000001,No,107.60981,-6.914744,5422.3
+5088,0,49,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.91,No,107.60981,-6.914744,5296.2
+3866,1,1,Bandung,Mid End,No,No,No,No,No,No,Pulsa,57.2,No,107.60981,-6.914744,3620.5
+2059,0,51,Bandung,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,121.55,No,107.60981,-6.914744,7229.3
+5430,0,72,Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,126.42500000000001,No,106.816666,-6.2,8002.8
+5194,0,72,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,No,Credit,100.55499999999999,No,106.816666,-6.2,8062.6
+4993,0,16,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.765,No,107.60981,-6.914744,5636.8
+4586,0,16,Jakarta,Mid End,Yes,Yes,No,Yes,Yes,Yes,Pulsa,110.37,No,106.816666,-6.2,2949.7000000000003
+3907,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.544999999999998,No,106.816666,-6.2,4712.5
+362,1,10,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111.28,Yes,106.816666,-6.2,6689.8
+2860,0,57,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,130.975,No,106.816666,-6.2,8260.2
+6413,0,32,Jakarta,High End,Yes,Yes,No,No,No,Yes,Pulsa,118.04,No,106.816666,-6.2,3538.6
+3314,0,72,Bandung,High End,Yes,Yes,Yes,No,Yes,No,Debit,131.69,No,107.60981,-6.914744,7166.900000000001
+2929,0,58,Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,127.14,No,106.816666,-6.2,7824.7
+2950,0,23,Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Digital Wallet,95.875,No,106.816666,-6.2,4527.900000000001
+1845,1,25,Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,116.35000000000001,Yes,106.816666,-6.2,6303.7
+3675,0,32,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.285,No,106.816666,-6.2,5671.900000000001
+3494,0,69,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,135.20000000000002,No,106.816666,-6.2,7672.6
+6369,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,142.35,No,106.816666,-6.2,8344.7
+2853,0,50,Jakarta,Mid End,Yes,No,No,Yes,No,No,Digital Wallet,46.02,No,106.816666,-6.2,6567.6
+638,1,28,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Pulsa,137.93,Yes,106.816666,-6.2,4901.0
+6565,0,10,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,106.816666,-6.2,4561.7
+2260,0,58,Jakarta,High End,No,Yes,No,Yes,Yes,No,Credit,123.11000000000001,No,106.816666,-6.2,7348.900000000001
+6167,1,7,Bandung,High End,No,No,No,No,No,No,Pulsa,98.02000000000001,No,107.60981,-6.914744,4592.900000000001
+981,1,4,Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64.155,Yes,106.816666,-6.2,7615.400000000001
+4408,0,34,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Digital Wallet,79.03999999999999,No,106.816666,-6.2,5878.6
+6151,0,70,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,149.69500000000002,No,106.816666,-6.2,5704.400000000001
+6846,0,71,Jakarta,Mid End,No,Yes,Yes,Yes,No,Yes,Debit,94.77000000000001,No,106.816666,-6.2,8325.2
+4923,1,21,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Digital Wallet,135.005,No,106.816666,-6.2,5876.0
+4049,0,56,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,78.325,No,106.816666,-6.2,6285.5
+5812,0,71,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,99.97000000000001,No,106.816666,-6.2,6022.900000000001
+354,1,14,Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,113.425,Yes,106.816666,-6.2,6221.8
+5217,0,41,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.35,No,106.816666,-6.2,3179.8
+238,1,3,Bandung,High End,No,No,No,No,No,No,Debit,96.72000000000001,Yes,107.60981,-6.914744,2670.2000000000003
+6604,0,58,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.650000000000002,No,106.816666,-6.2,8041.8
+4938,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,85.41000000000001,No,106.816666,-6.2,8043.1
+1517,1,13,Jakarta,High End,No,Yes,Yes,Yes,No,No,Pulsa,116.22000000000001,Yes,106.816666,-6.2,2893.8
+2485,0,43,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Credit,102.89500000000001,No,106.816666,-6.2,4830.8
+5448,0,41,Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,66.75500000000001,No,107.60981,-6.914744,7308.6
+1546,1,2,Bandung,High End,No,No,No,No,No,No,Debit,91.0,Yes,107.60981,-6.914744,3806.4
+6123,0,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.39,No,106.816666,-6.2,3259.1
+1170,1,4,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103.87,Yes,106.816666,-6.2,6069.7
+6845,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.869999999999997,No,106.816666,-6.2,5967.0
+3253,0,72,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,148.32999999999998,No,107.60981,-6.914744,6454.5
+1903,0,69,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,83.39500000000001,No,106.816666,-6.2,6666.400000000001
+3517,0,27,Jakarta,Mid End,No,Yes,Yes,No,No,Yes,Credit,59.605000000000004,No,106.816666,-6.2,2688.4
+3671,0,14,Jakarta,Mid End,No,No,Yes,No,Yes,No,Credit,77.74,No,106.816666,-6.2,7750.6
+4442,0,19,Bandung,Mid End,No,No,No,No,No,No,Debit,58.5,No,107.60981,-6.914744,5874.7
+4760,1,18,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,124.73500000000001,No,106.816666,-6.2,6511.7
+6876,1,5,Bandung,High End,Yes,No,Yes,No,No,Yes,Digital Wallet,117.455,No,107.60981,-6.914744,5218.2
+6800,1,28,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,130.45499999999998,No,106.816666,-6.2,4434.3
+5469,0,30,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,97.04500000000002,No,107.60981,-6.914744,7300.8
+2747,0,71,Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,135.26500000000001,No,106.816666,-6.2,5346.900000000001
+1262,1,1,Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,70.135,Yes,106.816666,-6.2,3602.3
+5856,0,71,Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,126.36000000000001,No,106.816666,-6.2,5983.900000000001
+5120,0,32,Jakarta,Mid End,No,Yes,Yes,No,No,No,Debit,81.185,No,106.816666,-6.2,7074.6
+5199,0,70,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,No,Debit,98.15,No,106.816666,-6.2,7831.2
+4232,1,1,Bandung,Mid End,No,No,No,No,No,Yes,Pulsa,71.825,No,107.60981,-6.914744,4231.5
+1534,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,92.3,Yes,106.816666,-6.2,5469.1
+5105,1,4,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,63.375,No,106.816666,-6.2,3962.4
+2741,0,43,Jakarta,High End,No,Yes,No,Yes,Yes,No,Pulsa,122.59,No,106.816666,-6.2,2652.0
+6763,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,119.99,No,106.816666,-6.2,6676.8
+2431,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,149.435,No,106.816666,-6.2,8148.400000000001
+1868,1,4,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96.72000000000001,Yes,106.816666,-6.2,7590.7
+5039,0,24,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,31.980000000000004,No,107.60981,-6.914744,5391.1
+886,1,1,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123.63,Yes,106.816666,-6.2,7533.5
+2720,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,24.505000000000003,No,106.816666,-6.2,6609.2
+5570,1,14,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124.28,No,106.816666,-6.2,4552.6
+1356,1,36,Bandung,High End,No,No,No,No,No,Yes,Pulsa,109.33,Yes,107.60981,-6.914744,3883.1
+4514,1,40,Bandung,High End,No,No,Yes,No,No,No,Pulsa,105.56,No,107.60981,-6.914744,6981.0
+6555,0,67,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Pulsa,136.565,No,106.816666,-6.2,5385.900000000001
+4393,0,69,Jakarta,High End,No,Yes,No,Yes,Yes,No,Digital Wallet,119.79500000000002,No,106.816666,-6.2,7562.1
+5720,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.78,No,107.60981,-6.914744,6981.0
+4765,0,10,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,52.325,No,106.816666,-6.2,3738.8
+1147,0,55,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,74.815,Yes,106.816666,-6.2,7101.900000000001
+1468,0,68,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,147.095,Yes,106.816666,-6.2,5993.0
+601,0,66,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,129.35,Yes,106.816666,-6.2,5822.7
+5060,1,7,Bandung,High End,No,No,No,No,No,No,Digital Wallet,90.87,No,107.60981,-6.914744,5930.6
+5254,0,10,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.195,No,106.816666,-6.2,3686.8
+4637,1,1,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,37.894999999999996,No,106.816666,-6.2,5099.900000000001
+2281,0,55,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.155,No,106.816666,-6.2,6822.400000000001
+5883,1,45,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,140.07500000000002,No,106.816666,-6.2,4291.3
+3024,1,10,Bandung,Mid End,No,No,Yes,No,Yes,Yes,Credit,88.14,No,107.60981,-6.914744,3521.7000000000003
+4029,0,69,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,150.8,No,106.816666,-6.2,5480.8
+1203,1,1,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110.565,Yes,106.816666,-6.2,3867.5
+3813,0,33,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33.410000000000004,No,107.60981,-6.914744,4391.400000000001
+3145,0,45,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Debit,106.14500000000001,No,106.816666,-6.2,7718.1
+5153,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58.175000000000004,No,106.816666,-6.2,5353.400000000001
+3144,0,31,Jakarta,Mid End,No,Yes,No,Yes,Yes,No,Pulsa,92.365,No,106.816666,-6.2,5775.900000000001
+6391,0,50,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.455000000000002,No,106.816666,-6.2,8308.300000000001
+2336,0,57,Jakarta,High End,Yes,Yes,No,Yes,No,No,Debit,113.815,No,106.816666,-6.2,6346.6
+652,1,1,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96.525,Yes,106.816666,-6.2,6175.0
+571,1,2,Jakarta,High End,No,No,Yes,No,No,No,Pulsa,98.54,Yes,106.816666,-6.2,6851.0
+808,1,3,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,136.95499999999998,Yes,106.816666,-6.2,4760.6
+4757,0,67,Jakarta,High End,No,No,No,No,Yes,Yes,Credit,123.04500000000002,No,106.816666,-6.2,5496.400000000001
+1732,1,42,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,136.175,Yes,107.60981,-6.914744,3879.2000000000003
+5010,0,70,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,33.800000000000004,No,107.60981,-6.914744,8021.0
+5055,0,71,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,27.105000000000004,No,107.60981,-6.914744,6288.1
+5599,1,9,Jakarta,High End,No,No,No,No,No,No,Pulsa,98.60499999999999,No,106.816666,-6.2,6775.6
+2033,0,72,Bandung,Mid End,Yes,Yes,Yes,Yes,No,No,Credit,58.825,No,107.60981,-6.914744,6553.3
+4255,1,53,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136.82500000000002,No,107.60981,-6.914744,8274.5
+2071,1,19,Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Digital Wallet,136.5,No,107.60981,-6.914744,4581.2
+18,1,9,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122.72000000000001,Yes,106.816666,-6.2,7242.3
+2206,0,72,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Debit,137.15,No,106.816666,-6.2,7194.2
+5446,0,20,Bandung,Mid End,Yes,No,Yes,Yes,No,No,Credit,51.22,No,107.60981,-6.914744,5068.7
+6713,0,43,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.0,No,107.60981,-6.914744,6346.6
+4231,0,50,Bandung,Mid End,No,Yes,No,Yes,Yes,Yes,Digital Wallet,103.47999999999999,No,107.60981,-6.914744,7269.6
+3934,0,55,Jakarta,High End,Yes,No,No,No,Yes,No,Debit,116.74,No,106.816666,-6.2,7637.5
+129,1,2,Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,122.46000000000001,Yes,106.816666,-6.2,4829.5
+5852,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.455000000000002,No,106.816666,-6.2,6957.6
+778,0,10,Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,44.07,Yes,106.816666,-6.2,3287.7000000000003
+2592,0,71,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,100.55499999999999,No,107.60981,-6.914744,6299.8
+797,1,32,Jakarta,High End,No,Yes,No,No,No,Yes,Debit,109.39500000000001,Yes,106.816666,-6.2,5222.1
+1827,1,3,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137.67000000000002,Yes,107.60981,-6.914744,3529.5
+725,1,16,Jakarta,High End,No,Yes,No,No,No,No,Credit,96.59,Yes,106.816666,-6.2,2698.8
+5046,1,25,Bandung,High End,No,No,No,No,No,No,Pulsa,90.675,No,107.60981,-6.914744,4004.0
+1260,0,38,Jakarta,High End,No,No,No,No,No,No,Debit,91.58500000000001,Yes,106.816666,-6.2,7068.1
+3112,0,40,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.195,No,106.816666,-6.2,5089.5
+6094,0,61,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31.46,No,106.816666,-6.2,8061.3
+5097,0,25,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.065,No,107.60981,-6.914744,2613.0
+1767,0,48,Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Digital Wallet,124.15,Yes,106.816666,-6.2,3196.7000000000003
+162,1,3,Jakarta,High End,No,No,No,No,No,No,Debit,90.415,Yes,106.816666,-6.2,3738.8
+3886,0,63,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Credit,140.725,No,106.816666,-6.2,6930.3
+1268,1,37,Bandung,High End,No,No,No,No,No,No,Pulsa,99.125,Yes,107.60981,-6.914744,7616.7
+6343,1,1,Jakarta,Mid End,Yes,No,No,No,No,No,Credit,64.74,No,106.816666,-6.2,3871.4
+555,1,17,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,105.10499999999999,Yes,106.816666,-6.2,6726.2
+1357,1,3,Bandung,Mid End,No,No,No,Yes,Yes,Yes,Pulsa,90.155,Yes,107.60981,-6.914744,4576.0
+6925,1,21,Bandung,High End,No,No,No,Yes,Yes,No,Pulsa,111.865,No,107.60981,-6.914744,3818.1
+5313,0,67,Jakarta,Mid End,Yes,Yes,No,No,No,No,Debit,46.995,No,106.816666,-6.2,8208.2
+3722,0,34,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.130000000000003,No,106.816666,-6.2,2953.6
+1405,1,18,Jakarta,High End,No,No,Yes,No,No,Yes,Credit,117.91000000000001,Yes,106.816666,-6.2,3810.3
+6417,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,115.31,No,106.816666,-6.2,6033.3
+71,1,18,Bandung,High End,No,No,Yes,No,Yes,Yes,Digital Wallet,123.69500000000001,Yes,107.60981,-6.914744,6035.900000000001
+1774,1,3,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,97.5,Yes,106.816666,-6.2,4147.0
+365,1,1,Jakarta,Mid End,No,No,No,No,No,No,Debit,64.935,Yes,106.816666,-6.2,2653.3
+1424,1,10,Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,93.79500000000002,Yes,106.816666,-6.2,3194.1
+4878,0,10,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.169999999999998,No,106.816666,-6.2,6376.5
+2030,0,29,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.0,No,107.60981,-6.914744,4940.0
+367,1,34,Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,122.525,Yes,106.816666,-6.2,4379.7
+1681,1,7,Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,132.535,Yes,106.816666,-6.2,2620.8
+5759,0,69,Bandung,Mid End,Yes,No,Yes,Yes,Yes,Yes,Debit,112.97000000000001,No,107.60981,-6.914744,6067.1
+4825,0,36,Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,70.78500000000001,No,106.816666,-6.2,5800.6
+3555,0,72,Jakarta,Mid End,No,Yes,Yes,Yes,Yes,Yes,Debit,111.73500000000001,No,106.816666,-6.2,8385.0
+3121,0,42,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.845,No,106.816666,-6.2,7742.8
+2058,0,42,Bandung,High End,Yes,Yes,Yes,No,No,Yes,Pulsa,128.70000000000002,No,107.60981,-6.914744,3753.1
+6590,0,67,Jakarta,Mid End,Yes,No,No,Yes,Yes,No,Pulsa,57.07,No,106.816666,-6.2,8247.2
+5948,1,21,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124.02000000000001,No,106.816666,-6.2,7398.3
+6493,1,23,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121.55,No,106.816666,-6.2,6319.3
+1216,1,15,Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,112.06,Yes,106.816666,-6.2,7577.7
+6047,0,34,Jakarta,Mid End,No,No,Yes,Yes,Yes,No,Debit,83.46000000000001,No,106.816666,-6.2,2892.5
+684,1,7,Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,129.025,Yes,107.60981,-6.914744,3233.1
+4106,0,9,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.52,No,106.816666,-6.2,5453.5
+2002,0,34,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,32.11,No,107.60981,-6.914744,4447.3
+297,1,1,Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,46.214999999999996,Yes,106.816666,-6.2,5145.400000000001
+3925,1,25,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,141.57000000000002,No,106.816666,-6.2,5717.400000000001
+5367,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,150.15,No,106.816666,-6.2,6106.1
+383,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26.715000000000003,Yes,106.816666,-6.2,7326.8
+2914,1,60,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129.74,No,106.816666,-6.2,8076.900000000001
+1999,0,43,Bandung,High End,Yes,No,Yes,Yes,No,No,Debit,109.525,No,107.60981,-6.914744,5696.6
+6193,0,3,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27.56,No,107.60981,-6.914744,2714.4
+3397,0,72,Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Credit,109.33,No,106.816666,-6.2,6072.3
+193,1,2,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58.955000000000005,Yes,106.816666,-6.2,4521.400000000001
+6546,1,10,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,128.57000000000002,No,106.816666,-6.2,5998.2
+282,1,7,Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,127.465,Yes,106.816666,-6.2,3329.3
+6057,0,33,Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,66.885,No,106.816666,-6.2,6415.5
+5245,1,31,Jakarta,High End,No,Yes,No,No,No,No,Pulsa,105.495,No,106.816666,-6.2,3940.3
+4312,1,38,Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123.175,No,106.816666,-6.2,4750.2
+2897,0,24,Jakarta,High End,Yes,No,No,Yes,No,No,Pulsa,109.655,No,106.816666,-6.2,2857.4
+2835,0,28,Jakarta,Mid End,No,No,Yes,No,Yes,No,Debit,77.41499999999999,No,106.816666,-6.2,4360.2
+5716,0,72,Bandung,Mid End,Yes,Yes,Yes,No,No,No,Credit,50.050000000000004,No,107.60981,-6.914744,6123.0
+5315,0,20,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.025000000000002,No,106.816666,-6.2,5378.1
+6615,0,60,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,102.7,No,106.816666,-6.2,6249.1
+145,1,4,Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,115.96000000000001,Yes,106.816666,-6.2,7550.400000000001
+2346,0,46,Jakarta,Mid End,Yes,No,No,No,No,No,Debit,71.5,No,106.816666,-6.2,7706.400000000001
+2881,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Debit,106.99,No,106.816666,-6.2,5410.6
+460,0,41,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,147.16,Yes,106.816666,-6.2,4394.0
+4437,0,65,Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,130.975,No,107.60981,-6.914744,5678.400000000001
+6768,0,43,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,38.09,No,106.816666,-6.2,6163.3
+3442,0,21,Jakarta,Mid End,Yes,No,Yes,No,No,Yes,Digital Wallet,84.30499999999999,No,106.816666,-6.2,4292.6
+2768,0,54,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.52,No,106.816666,-6.2,8310.9
+1307,0,61,Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,135.72,Yes,106.816666,-6.2,5735.6
+6249,0,20,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,71.5,No,107.60981,-6.914744,5825.3
+3851,0,69,Bandung,High End,No,Yes,No,Yes,Yes,Yes,Debit,136.76000000000002,No,107.60981,-6.914744,8121.1
+3556,1,1,Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58.760000000000005,No,106.816666,-6.2,5948.8
+3839,0,33,Bandung,High End,Yes,Yes,No,Yes,No,Yes,Pulsa,121.615,No,107.60981,-6.914744,5738.2
+6780,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,27.105000000000004,No,106.816666,-6.2,3450.2000000000003
+462,1,2,Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102.7,Yes,106.816666,-6.2,6810.7
+3916,0,13,Jakarta,Mid End,Yes,No,Yes,No,No,Yes,Digital Wallet,82.095,No,106.816666,-6.2,7690.8
+4131,1,1,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59.54,No,106.816666,-6.2,3398.2000000000003
+4425,0,55,Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,72.41000000000001,No,106.816666,-6.2,5393.7
+2582,1,22,Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,123.63,No,107.60981,-6.914744,4847.7
+257,1,27,Bandung,High End,No,No,No,No,No,No,Pulsa,98.15,Yes,107.60981,-6.914744,3090.1
+422,1,13,Bandung,High End,No,Yes,No,Yes,No,Yes,Debit,115.765,Yes,107.60981,-6.914744,5019.3
+5320,0,26,Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,65.455,No,106.816666,-6.2,4401.8
+2357,0,35,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,106.816666,-6.2,5872.1
+4434,1,56,Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136.175,No,107.60981,-6.914744,6666.400000000001
+1818,1,1,Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124.08500000000001,Yes,107.60981,-6.914744,7750.6
+3364,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,96.59,No,106.816666,-6.2,3858.4
+277,1,23,Bandung,High End,No,No,No,Yes,Yes,No,Pulsa,117.78,Yes,107.60981,-6.914744,5666.7
+770,1,7,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,98.08500000000001,Yes,106.816666,-6.2,3733.6
+5588,1,22,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Pulsa,135.98,No,106.816666,-6.2,3157.7000000000003
+5371,0,56,Jakarta,Mid End,No,Yes,Yes,No,No,No,Credit,77.35000000000001,No,106.816666,-6.2,7120.1
+6720,0,71,Bandung,Mid End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,107.315,No,107.60981,-6.914744,6068.400000000001
+2819,0,59,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,No,106.816666,-6.2,7987.200000000001
+1310,1,18,Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,124.865,Yes,106.816666,-6.2,7255.3
+5890,0,60,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,79.75500000000001,No,106.816666,-6.2,8026.200000000001
+5309,0,8,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57.785000000000004,No,106.816666,-6.2,6381.7
+5183,0,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.675,No,106.816666,-6.2,7551.7
+33,1,1,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91.58500000000001,Yes,106.816666,-6.2,5153.2
+5632,0,28,Jakarta,High End,Yes,No,No,No,No,Yes,Debit,107.705,No,106.816666,-6.2,7542.6
+6630,1,18,Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96.39500000000001,No,106.816666,-6.2,3435.9
+691,1,24,Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117.455,Yes,107.60981,-6.914744,7209.8
+2094,0,68,Bandung,Mid End,No,Yes,Yes,Yes,Yes,Yes,Credit,78.39,No,107.60981,-6.914744,6323.2
+3565,0,71,Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,136.04500000000002,No,106.816666,-6.2,7931.3
+5025,0,64,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.61,No,107.60981,-6.914744,7060.3
+5514,0,72,Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,143.975,No,107.60981,-6.914744,6302.400000000001
+6357,0,69,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,143.32500000000002,No,106.816666,-6.2,6432.400000000001
+6383,0,67,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Credit,69.42,No,106.816666,-6.2,7787.0
+2828,1,20,Jakarta,High End,No,No,No,No,Yes,No,Debit,104.91000000000001,No,106.816666,-6.2,4044.3
+6945,0,25,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.31,No,107.60981,-6.914744,2975.7000000000003
+3160,0,50,Jakarta,High End,No,No,Yes,Yes,No,Yes,Debit,116.61000000000001,No,106.816666,-6.2,6897.8
+3035,1,6,Bandung,Mid End,No,No,No,No,No,No,Credit,63.635000000000005,No,107.60981,-6.914744,3979.3
+1532,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.480000000000004,Yes,106.816666,-6.2,3695.9
+3663,0,18,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.130000000000003,No,106.816666,-6.2,3783.0
+6537,1,2,Jakarta,Mid End,No,Yes,No,No,No,No,Credit,73.515,No,106.816666,-6.2,2689.7000000000003
+1599,1,3,Jakarta,Mid End,No,No,Yes,No,Yes,No,Digital Wallet,52.195,Yes,106.816666,-6.2,6123.0
+2764,0,9,Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Credit,90.22000000000001,No,106.816666,-6.2,6640.400000000001
+456,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.87,Yes,106.816666,-6.2,4353.7
+4462,0,70,Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,147.745,No,107.60981,-6.914744,8351.2
+440,1,46,Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124.865,Yes,106.816666,-6.2,3525.6
+6178,0,15,Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,63.44,No,107.60981,-6.914744,3350.1
+6103,0,53,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.805000000000003,No,106.816666,-6.2,8239.4
+1609,1,1,Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,72.02,Yes,106.816666,-6.2,2982.2000000000003
+4926,0,29,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.155,No,106.816666,-6.2,6795.1
+641,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,100.29500000000002,Yes,106.816666,-6.2,3582.8
+2110,0,69,Jakarta,Mid End,Yes,Yes,No,Yes,Yes,Yes,Debit,78.065,No,106.816666,-6.2,7004.400000000001
+6671,0,63,Bandung,Mid End,Yes,No,No,Yes,No,No,Debit,46.93000000000001,No,107.60981,-6.914744,6615.7
+4466,0,51,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32.5,No,107.60981,-6.914744,7664.8
+6646,0,64,Jakarta,High End,Yes,No,No,No,No,No,Digital Wallet,95.615,No,106.816666,-6.2,6523.400000000001
+2244,0,52,Jakarta,High End,Yes,No,Yes,Yes,No,No,Debit,109.265,No,106.816666,-6.2,7928.7
+2696,0,70,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Debit,77.35000000000001,No,106.816666,-6.2,5240.3
+6055,0,9,Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,71.24,No,106.816666,-6.2,3702.4
+490,1,3,Bandung,High End,No,Yes,No,No,Yes,No,Pulsa,108.875,Yes,107.60981,-6.914744,6307.6
+5976,0,70,Jakarta,Mid End,Yes,No,Yes,Yes,No,Yes,Credit,97.24,No,106.816666,-6.2,8381.1
+3450,1,21,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109.33,No,106.816666,-6.2,6043.7
+380,1,5,Jakarta,High End,No,No,Yes,No,No,No,Credit,98.215,Yes,106.816666,-6.2,5236.400000000001
+5225,1,20,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,140.66,No,106.816666,-6.2,2732.6
+5794,0,72,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,142.675,No,106.816666,-6.2,7813.0
+3217,0,72,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.39,No,107.60981,-6.914744,6844.5
+1657,1,2,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.84500000000001,Yes,106.816666,-6.2,2845.7000000000003
+3398,0,23,Jakarta,High End,No,No,Yes,No,No,No,Credit,97.89,No,106.816666,-6.2,7673.900000000001
+949,0,4,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,27.235,Yes,106.816666,-6.2,7568.6
+140,0,32,Jakarta,High End,No,Yes,No,No,No,No,Debit,104.455,Yes,106.816666,-6.2,7766.2
+6403,0,36,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Credit,116.54500000000002,No,106.816666,-6.2,6297.2
+6995,0,24,Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,64.61,No,106.816666,-6.2,3784.3
+5556,0,6,Jakarta,Mid End,No,No,No,Yes,No,No,Credit,64.35000000000001,No,106.816666,-6.2,7217.6
+3514,0,23,Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,77.61,No,106.816666,-6.2,4503.2
+1935,0,48,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.845,No,106.816666,-6.2,5361.2
+3183,0,28,Jakarta,Mid End,No,No,No,Yes,No,No,Credit,71.37,No,106.816666,-6.2,3750.5
+170,0,52,Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,63.895,Yes,106.816666,-6.2,7276.1
+4730,1,3,Jakarta,High End,No,No,No,No,No,No,Pulsa,97.435,No,106.816666,-6.2,4733.3
+570,1,2,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104.715,Yes,106.816666,-6.2,3712.8
+6054,0,4,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.935,No,106.816666,-6.2,2853.5
+11,1,5,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.61000000000001,Yes,106.816666,-6.2,3190.2000000000003
+453,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.47999999999999,Yes,106.816666,-6.2,4469.400000000001
+5040,0,66,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.675,No,107.60981,-6.914744,5830.5
+2111,0,52,Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Credit,133.51000000000002,No,106.816666,-6.2,5257.2
+227,1,1,Bandung,Mid End,No,No,No,No,No,No,Pulsa,31.980000000000004,Yes,107.60981,-6.914744,7498.400000000001
+6969,0,35,Jakarta,High End,Yes,No,No,Yes,No,Yes,Pulsa,115.96000000000001,No,106.816666,-6.2,5779.8
+2931,1,3,Jakarta,Mid End,No,No,Yes,Yes,No,No,Digital Wallet,72.53999999999999,No,106.816666,-6.2,3460.6
+2335,0,66,Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Credit,133.70499999999998,No,106.816666,-6.2,7239.7
+5753,0,59,Bandung,Mid End,Yes,No,No,Yes,No,Yes,Debit,89.31,No,107.60981,-6.914744,5517.2
+3488,0,52,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,33.475,No,106.816666,-6.2,6078.8
+5638,1,8,Jakarta,High End,No,No,No,No,No,No,Pulsa,95.55,No,106.816666,-6.2,7510.1
+2732,0,5,Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,69.94,No,106.816666,-6.2,2836.6
+717,1,4,Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,57.915,Yes,106.816666,-6.2,7286.5
+4124,0,50,Jakarta,Mid End,Yes,No,No,Yes,Yes,No,Credit,91.65,No,106.816666,-6.2,5228.6
+3353,0,62,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Digital Wallet,140.595,No,106.816666,-6.2,6887.400000000001
+6181,0,61,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.285,No,107.60981,-6.914744,5926.7
+2257,0,55,Jakarta,High End,No,No,No,No,No,Yes,Debit,111.15,No,106.816666,-6.2,8334.300000000001
+6692,0,5,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.065,No,107.60981,-6.914744,3227.9
+2597,0,35,Bandung,Mid End,Yes,No,No,Yes,No,No,Debit,71.435,No,107.60981,-6.914744,6315.400000000001
+1872,1,22,Jakarta,High End,No,Yes,No,No,Yes,No,Credit,115.83,No,106.816666,-6.2,5796.7
+5170,0,57,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Credit,69.355,No,106.816666,-6.2,7099.3
+582,0,57,Jakarta,High End,No,Yes,Yes,No,No,Yes,Debit,123.825,Yes,106.816666,-6.2,8136.700000000001
+3994,0,64,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25.285,No,106.816666,-6.2,6646.900000000001
+4193,0,26,Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Debit,124.60499999999999,No,106.816666,-6.2,4984.2
+6394,0,39,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Digital Wallet,128.82999999999998,No,106.816666,-6.2,5978.7
+6364,0,19,Jakarta,Mid End,No,Yes,No,No,No,Yes,Digital Wallet,77.74,No,106.816666,-6.2,4747.6
+925,1,31,Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,121.94,Yes,107.60981,-6.914744,5349.5
+3697,0,6,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,No,106.816666,-6.2,6578.0
+2694,0,52,Jakarta,High End,No,No,Yes,No,No,Yes,Credit,116.28500000000001,No,106.816666,-6.2,7001.8
+3347,0,53,Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,111.41000000000001,No,106.816666,-6.2,7744.1
+1850,0,56,Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,145.535,Yes,106.816666,-6.2,5278.0
+3703,0,56,Jakarta,Mid End,Yes,Yes,No,Yes,No,Yes,Credit,98.60499999999999,No,106.816666,-6.2,6908.2
+502,1,49,Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,129.74,Yes,107.60981,-6.914744,7914.400000000001
+4559,0,39,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.5,No,106.816666,-6.2,5583.5
+750,1,61,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,128.895,Yes,106.816666,-6.2,7295.6
+6667,0,43,Bandung,Mid End,Yes,No,No,Yes,No,No,Debit,44.2,No,107.60981,-6.914744,7031.7
+3472,0,5,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.415000000000003,No,106.816666,-6.2,3347.5
+5258,0,11,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.39,No,106.816666,-6.2,5444.400000000001
+2507,0,2,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.305,No,106.816666,-6.2,7777.900000000001
+1485,1,13,Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,125.64500000000001,Yes,106.816666,-6.2,2743.0
+6354,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,105.3,No,106.816666,-6.2,5508.1
+5471,0,46,Bandung,Mid End,No,No,Yes,Yes,No,Yes,Credit,89.83,No,107.60981,-6.914744,5012.8
+2477,0,71,Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,141.115,No,106.816666,-6.2,5344.3
+1527,0,36,Jakarta,High End,No,No,Yes,Yes,No,Yes,Pulsa,113.815,Yes,106.816666,-6.2,3325.4
+5506,0,64,Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,141.05,No,107.60981,-6.914744,5948.8
+144,1,1,Jakarta,High End,Yes,No,No,No,No,No,Digital Wallet,97.89,Yes,106.816666,-6.2,4217.2
+374,1,15,Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,109.59,Yes,106.816666,-6.2,5203.900000000001
+2946,0,36,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.0,No,106.816666,-6.2,5427.5
+5345,0,6,Jakarta,Mid End,No,Yes,Yes,Yes,No,No,Digital Wallet,52.714999999999996,No,106.816666,-6.2,3725.8
+3008,0,30,Bandung,Mid End,No,No,Yes,No,No,No,Digital Wallet,65.0,No,107.60981,-6.914744,6129.5
+452,1,1,Jakarta,Mid End,No,No,No,No,Yes,No,Pulsa,77.805,Yes,106.816666,-6.2,5222.1
+1422,1,13,Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105.10499999999999,Yes,106.816666,-6.2,7753.2
+4948,0,61,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26.52,No,106.816666,-6.2,7666.1
+4788,0,72,Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,140.01000000000002,No,106.816666,-6.2,5656.3
+3917,0,67,Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Credit,96.2,No,106.816666,-6.2,5444.400000000001
+6195,0,34,Bandung,Mid End,Yes,No,Yes,Yes,Yes,Yes,Debit,103.935,No,107.60981,-6.914744,4641.0
+3211,0,72,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.650000000000002,No,107.60981,-6.914744,8192.6
+5641,0,46,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,85.34500000000001,No,106.816666,-6.2,3484.0
+1311,1,7,Jakarta,High End,No,No,No,No,No,No,Debit,97.63,Yes,106.816666,-6.2,7168.2
+43,1,7,Bandung,High End,Yes,No,No,No,No,No,Debit,99.385,Yes,107.60981,-6.914744,5744.7
+4816,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,88.14,No,106.816666,-6.2,6814.6
+2586,1,32,Bandung,High End,No,Yes,No,No,Yes,No,Pulsa,111.92999999999999,No,107.60981,-6.914744,6461.0
+2692,0,39,Jakarta,Mid End,No,No,No,Yes,No,No,Credit,70.00500000000001,No,106.816666,-6.2,3094.0
+3029,0,47,Bandung,High End,Yes,Yes,Yes,No,No,Yes,Pulsa,124.92999999999999,No,107.60981,-6.914744,7530.900000000001
+918,1,50,Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,123.565,Yes,107.60981,-6.914744,7621.900000000001
+3508,0,58,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25.415000000000003,No,106.816666,-6.2,6241.3
+6620,0,41,Jakarta,High End,Yes,No,No,No,No,No,Credit,105.69,No,106.816666,-6.2,2988.7000000000003
+2567,1,4,Bandung,High End,No,No,No,No,Yes,No,Pulsa,108.22500000000001,No,107.60981,-6.914744,6826.3
+5141,0,32,Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,79.82000000000001,No,106.816666,-6.2,3443.7000000000003
+5059,1,1,Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.975,No,107.60981,-6.914744,3628.3
+4351,0,19,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.544999999999998,No,106.816666,-6.2,7274.8
+5243,0,62,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,136.305,No,106.816666,-6.2,6579.3
+2820,1,1,Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Credit,96.33,No,106.816666,-6.2,3770.0
+147,0,12,Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Digital Wallet,80.145,Yes,106.816666,-6.2,7371.0
+121,0,48,Jakarta,Mid End,Yes,No,Yes,No,No,Yes,Debit,58.89,Yes,106.816666,-6.2,6403.8
+1924,0,3,Jakarta,Mid End,Yes,No,No,Yes,No,Yes,Debit,83.85000000000001,No,106.816666,-6.2,7296.900000000001
+3409,0,40,Jakarta,High End,No,No,No,Yes,No,No,Credit,102.505,No,106.816666,-6.2,6834.1
+4770,0,19,Jakarta,Mid End,No,No,No,No,No,No,Debit,32.695,No,106.816666,-6.2,4919.2
+1497,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,91.325,Yes,106.816666,-6.2,5372.900000000001
+6505,0,67,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,32.37,No,106.816666,-6.2,7601.1
+5330,1,16,Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Debit,130.91,No,106.816666,-6.2,4338.1
+5402,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.415000000000003,No,106.816666,-6.2,7289.1
+6862,0,21,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,No,Digital Wallet,69.095,No,107.60981,-6.914744,4499.3
+4420,0,29,Jakarta,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,46.345,No,106.816666,-6.2,5339.1
+2248,0,20,Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Credit,122.59,No,106.816666,-6.2,3346.2000000000003
+1745,1,13,Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,122.33,Yes,107.60981,-6.914744,3864.9
+149,1,9,Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,38.935,Yes,106.816666,-6.2,3344.9
+4701,0,51,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,108.22500000000001,No,106.816666,-6.2,6942.0
+6890,0,60,Bandung,Mid End,Yes,Yes,No,Yes,Yes,Yes,Credit,102.765,No,107.60981,-6.914744,6857.5
+972,1,20,Jakarta,High End,Yes,No,No,No,No,No,Pulsa,102.89500000000001,Yes,106.816666,-6.2,6496.1
+1454,1,9,Jakarta,Mid End,No,No,No,No,Yes,No,Credit,45.11000000000001,Yes,106.816666,-6.2,6957.6
+16,1,8,Jakarta,High End,No,Yes,No,No,No,No,Credit,104.84500000000001,Yes,106.816666,-6.2,6892.6
+5091,0,63,Bandung,Mid End,No,No,Yes,Yes,Yes,Yes,Credit,103.74,No,107.60981,-6.914744,5294.900000000001
+5005,0,10,Bandung,Mid End,No,Yes,Yes,No,No,Yes,Digital Wallet,85.67000000000002,No,107.60981,-6.914744,6875.7
+3074,1,3,Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,90.935,No,107.60981,-6.914744,3580.2000000000003
+3721,0,44,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.78,No,106.816666,-6.2,3212.3
+4432,0,8,Bandung,Mid End,Yes,No,No,No,No,No,Credit,66.69,No,107.60981,-6.914744,3308.5
+389,0,61,Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Pulsa,137.8,Yes,106.816666,-6.2,5634.2
+2644,1,43,Bandung,High End,No,No,Yes,No,Yes,Yes,Debit,129.09,No,107.60981,-6.914744,4264.0
+4651,0,43,Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,73.25500000000001,No,106.816666,-6.2,6406.400000000001
+980,1,5,Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,65.78,Yes,106.816666,-6.2,3058.9
+6728,0,29,Jakarta,Mid End,Yes,No,No,Yes,Yes,No,Debit,89.765,No,106.816666,-6.2,5796.7
+6460,0,54,Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,128.76500000000001,No,106.816666,-6.2,5214.3
+4718,1,50,Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,127.72500000000001,No,106.816666,-6.2,6700.2
+2118,0,68,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,114.59500000000001,No,106.816666,-6.2,7190.3
+758,1,1,Jakarta,High End,No,No,No,No,No,No,Pulsa,90.025,Yes,106.816666,-6.2,5938.400000000001
+6587,0,72,Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,140.79,No,106.816666,-6.2,5437.900000000001
+6576,0,55,Jakarta,High End,No,No,No,No,No,No,Pulsa,95.03,No,106.816666,-6.2,7581.6
+4986,1,3,Bandung,High End,No,No,No,No,No,No,Digital Wallet,91.39,No,107.60981,-6.914744,5557.5
+3148,1,1,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24.765,No,106.816666,-6.2,6862.7
+5612,0,7,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25.805000000000003,No,106.816666,-6.2,5164.900000000001
+375,1,9,Jakarta,High End,No,No,No,No,No,Yes,Credit,109.72000000000001,Yes,106.816666,-6.2,7468.5
+5386,0,37,Jakarta,Mid End,No,No,No,No,Yes,No,Credit,46.54,No,106.816666,-6.2,7355.400000000001
+1985,0,62,Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,111.92999999999999,No,106.816666,-6.2,7499.7
+5343,0,56,Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Credit,79.69,No,106.816666,-6.2,5424.900000000001
+4598,0,27,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,31.85,No,106.816666,-6.2,3438.5
+5660,0,49,Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Digital Wallet,113.36000000000001,No,107.60981,-6.914744,5937.1
+5150,0,28,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26.39,No,106.816666,-6.2,3832.4
+4708,0,5,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26.845,No,106.816666,-6.2,7276.1
+5381,0,56,Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25.61,No,106.816666,-6.2,6280.3
+6000,0,72,Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Debit,91.58500000000001,No,106.816666,-6.2,5801.900000000001
